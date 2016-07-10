@@ -60,7 +60,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -2071,6 +2072,381 @@
               "2",
               "[@andyhot](https://github.com/andyhot)/[**flatpress-plugins**](https://github.com/andyhot/flatpress-plugins)",
               "Plugins for flatpress.org blogging engine",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4107",
+              "[@sophron](https://github.com/sophron)/[**wifiphisher**](https://github.com/sophron/wifiphisher)",
+              "Automated phishing attacks against Wi-Fi networks",
+              ""
+            ],
+            [
+              "729",
+              "[@stasinopoulos](https://github.com/stasinopoulos)/[**commix**](https://github.com/stasinopoulos/commix)",
+              "Automated All-in-One OS Command Injection and Exploitation Tool",
+              ""
+            ],
+            [
+              "455",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**django-annoying**](https://github.com/skorokithakis/django-annoying)",
+              "A django application that tries to eliminate annoying things in the Django framework.",
+              "[:arrow_upper_right:](http://skorokithakis.github.io/django-annoying)"
+            ],
+            [
+              "271",
+              "[@tyiannak](https://github.com/tyiannak)/[**pyAudioAnalysis**](https://github.com/tyiannak/pyAudioAnalysis)",
+              "Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications",
+              ""
+            ],
+            [
+              "263",
+              "[@orestis](https://github.com/orestis)/[**pysmell**](https://github.com/orestis/pysmell)",
+              "PySmell is an attempt to create an IDE completion helper for python.",
+              "[:arrow_upper_right:](http://code.google.com/p/pysmell/)"
+            ],
+            [
+              "194",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**netproxy**](https://github.com/skorokithakis/netproxy)",
+              "A Netflix/Hulu/Pandora/etc proxy in a box.",
+              ""
+            ],
+            [
+              "107",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**imdbapi**](https://github.com/skorokithakis/imdbapi)",
+              "An API for the IMDB site.",
+              "[:arrow_upper_right:](http://imdbapi.poromenos.org)"
+            ],
+            [
+              "106",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**encbup**](https://github.com/skorokithakis/encbup)",
+              "Encrypted backups (without the backups)",
+              ""
+            ],
+            [
+              "83",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**gr8w8upd8m8**](https://github.com/skorokithakis/gr8w8upd8m8)",
+              "Gr8W8Upd8M8 is a script to automatically read your weight from a Wii Balance Board.",
+              ""
+            ],
+            [
+              "64",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**omnisync**](https://github.com/skorokithakis/omnisync)",
+              "omnisync is a universal file synchroniser and backup program (think rsync) that supports multiple transport systems (such as plain files, sftp, s3 and virtual, currently, and support for ftp, http, et al is planned). It is designed to be fast, small, extensible, portable and bandwidth-efficient. It is available for Linux, Windows and Mac.",
+              ""
+            ],
+            [
+              "42",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**gitissius**](https://github.com/glogiotatidis/gitissius)",
+              "Distributed Issue Tracking for GIT",
+              "[:arrow_upper_right:](http://www.gitissius.org)"
+            ],
+            [
+              "37",
+              "[@stasinopoulos](https://github.com/stasinopoulos)/[**Jaidam**](https://github.com/stasinopoulos/Jaidam)",
+              "Jaidam is an open source penetration testing tool that would take as input a list of domain names, scan them, determine if wordpress or joomla platform was used and finally check them automatically, for web vulnerabilities using two well‐known open source tools, WPScan and Joomscan.",
+              ""
+            ],
+            [
+              "36",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**episode-renamer**](https://github.com/skorokithakis/episode-renamer)",
+              "Episode renamer is a simple python script that renames folders of TV episode video files to their proper names.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/episode-renamer/)"
+            ],
+            [
+              "36",
+              "[@sophron](https://github.com/sophron)/[**BAR**](https://github.com/sophron/BAR)",
+              "Broadcast Anonymous Routing - A scalable system for efficient anonymous communications",
+              "[:arrow_upper_right:](https://sophron.github.io/BAR/)"
+            ],
+            [
+              "22",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**apache-config**](https://github.com/skorokithakis/apache-config)",
+              "A script for configuring apache with Django+wsgi/fcgi+virtualenv+etc.",
+              ""
+            ],
+            [
+              "22",
+              "[@orestis](https://github.com/orestis)/[**twisted-tutorial**](https://github.com/orestis/twisted-tutorial)",
+              "A written tutorial based on the training I give in EuroPython 2011",
+              ""
+            ],
+            [
+              "20",
+              "[@vrypan](https://github.com/vrypan)/[**bucket3**](https://github.com/vrypan/bucket3)",
+              "bucket3 is a simple, blog aware, static site generator written in python.",
+              "[:arrow_upper_right:](http://bucket3.com/)"
+            ],
+            [
+              "19",
+              "[@vrypan](https://github.com/vrypan)/[**webmention-tools**](https://github.com/vrypan/webmention-tools)",
+              "Tools for webmention.org",
+              ""
+            ],
+            [
+              "19",
+              "[@xrg](https://github.com/xrg)/[**OpenERP**](https://github.com/xrg/OpenERP)",
+              "OpenERP master repo (unofficial)",
+              "[:arrow_upper_right:](http://xrg-openerp.blogspot.com/)"
+            ],
+            [
+              "17",
+              "[@stasinopoulos](https://github.com/stasinopoulos)/[**ZTExploit**](https://github.com/stasinopoulos/ZTExploit)",
+              "ZTE ZXV10 H108L Router with <= V1.0.01_WIND_A01 - Remote root RCE Exploit",
+              ""
+            ],
+            [
+              "16",
+              "[@kkar](https://github.com/kkar)/[**VBS-Obfuscator-in-Py…**](https://github.com/kkar/VBS-Obfuscator-in-Python)",
+              "VBScript obfuscation to allow PenTesters bypass countermeasures.",
+              ""
+            ],
+            [
+              "15",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**django-piwik-analyti…**](https://github.com/glogiotatidis/django-piwik-analytics)",
+              "Piwik Analytics for your Django project",
+              ""
+            ],
+            [
+              "14",
+              "[@orestis](https://github.com/orestis)/[**pyobjc**](https://github.com/orestis/pyobjc)",
+              "Clone of SVN of PyObjC (not affiliated)",
+              "[:arrow_upper_right:](http://pyobjc.sourceforge.net/)"
+            ],
+            [
+              "13",
+              "[@foutrelis](https://github.com/foutrelis)/[**ponytalk**](https://github.com/foutrelis/ponytalk)",
+              "Subtitle search engine (also links to the part in the video)",
+              "[:arrow_upper_right:](http://ponytalk.foutrelis.com/)"
+            ],
+            [
+              "12",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**landing-page**](https://github.com/skorokithakis/landing-page)",
+              "A very simple landing page app for AppEngine.",
+              ""
+            ],
+            [
+              "11",
+              "[@orestis](https://github.com/orestis)/[**django-localdates**](https://github.com/orestis/django-localdates)",
+              "An addition to django that allows better presentation of date strings in a local way.",
+              "[:arrow_upper_right:](http://code.google.com/p/django-localdates/)"
+            ],
+            [
+              "11",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**catt**](https://github.com/skorokithakis/catt)",
+              "Cast All The Things allows you to send videos from many, many online sources to your Chromecast.",
+              ""
+            ],
+            [
+              "11",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**stringphone**](https://github.com/skorokithakis/stringphone)",
+              "String phone is a secure communications protocol and library geared towards embedded devices.",
+              ""
+            ],
+            [
+              "10",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**nxt-python**](https://github.com/skorokithakis/nxt-python)",
+              "NXT-Python is a python driver/interface for the Lego Mindstorms NXT robot based on NXT_python.",
+              "[:arrow_upper_right:](http://code.google.com/p/nxt-python/)"
+            ],
+            [
+              "9",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**Reverend**](https://github.com/skorokithakis/Reverend)",
+              "A clone of Reverend, the naive Bayesian classifier written in Python.",
+              "[:arrow_upper_right:](http://divmod.org/trac/wiki/DivmodReverend)"
+            ],
+            [
+              "8",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**shufflecast**](https://github.com/skorokithakis/shufflecast)",
+              "A TV channel with all your favorite shows.",
+              ""
+            ],
+            [
+              "8",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**mozilla-cards**](https://github.com/glogiotatidis/mozilla-cards)",
+              "",
+              "[:arrow_upper_right:](http://cards.mozillareps.org)"
+            ],
+            [
+              "7",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**django-piston-oauth-…**](https://github.com/glogiotatidis/django-piston-oauth-example)",
+              "Example project with *working* django, piston and oauth",
+              ""
+            ],
+            [
+              "7",
+              "[@vrypan](https://github.com/vrypan)/[**tumblr2html**](https://github.com/vrypan/tumblr2html)",
+              "create a static HTML copy of a tumblr blog",
+              ""
+            ],
+            [
+              "7",
+              "[@orestis](https://github.com/orestis)/[**EuroPython-2011-Twis…**](https://github.com/orestis/EuroPython-2011-Twisted-Training)",
+              "Slides and snippets from the EuroPython 2011 Twisted Training",
+              ""
+            ],
+            [
+              "7",
+              "[@louridas](https://github.com/louridas)/[**invoices**](https://github.com/louridas/invoices)",
+              "Generates invoices to be used according to the latest (2012-2013) tax regulations",
+              ""
+            ],
+            [
+              "6",
+              "[@xrg](https://github.com/xrg)/[**openerp-server**](https://github.com/xrg/openerp-server)",
+              "Server of OpenERP",
+              "[:arrow_upper_right:](http://xrg-openerp.blogspot.com/)"
+            ],
+            [
+              "6",
+              "[@johngian](https://github.com/johngian)/[**irssi-zmq-notify**](https://github.com/johngian/irssi-zmq-notify)",
+              "Irssi notification system using zeroMQ",
+              ""
+            ],
+            [
+              "6",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**requests-guard**](https://github.com/skorokithakis/requests-guard)",
+              "requests-guard is a small library that allows you to impose size and time limits on your HTTP requests.",
+              ""
+            ],
+            [
+              "5",
+              "[@stasinopoulos](https://github.com/stasinopoulos)/[**CBC_W3K_2AES**](https://github.com/stasinopoulos/CBC_W3K_2AES)",
+              "Encryption / Decryption algorithm using, CBC with triple key and double AES.",
+              ""
+            ],
+            [
+              "5",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**docker-etcd-django**](https://github.com/glogiotatidis/docker-etcd-django)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@xrg](https://github.com/xrg)/[**openerp-libcli**](https://github.com/xrg/openerp-libcli)",
+              "Python Library for OpenERP client",
+              "[:arrow_upper_right:](http://git.hellug.gr/?p=xrg/openerp-libcli)"
+            ],
+            [
+              "5",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**jsane**](https://github.com/skorokithakis/jsane)",
+              "A saner way to traverse JSON in Python",
+              ""
+            ],
+            [
+              "5",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**python-fuse-sample**](https://github.com/skorokithakis/python-fuse-sample)",
+              "A sample FUSE filesystem in Python.",
+              ""
+            ],
+            [
+              "4",
+              "[@louridas](https://github.com/louridas)/[**corrplot**](https://github.com/louridas/corrplot)",
+              "Create a correlation plot, as in the corrplot R package",
+              ""
+            ],
+            [
+              "4",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**bakeit**](https://github.com/skorokithakis/bakeit)",
+              "A command-line utility for pastery, the best pastebin in the world.",
+              ""
+            ],
+            [
+              "4",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**pylast**](https://github.com/skorokithakis/pylast)",
+              "A clone of Amr Hassan's pylast: a python interface to last.fm (and other api-compatible websites)",
+              "[:arrow_upper_right:](http://code.google.com/p/pylast/)"
+            ],
+            [
+              "4",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**captainwebhook**](https://github.com/skorokithakis/captainwebhook)",
+              "Captain Webhook eats webhooks and executes commands.",
+              ""
+            ],
+            [
+              "4",
+              "[@orestis](https://github.com/orestis)/[**wixed**](https://github.com/orestis/wixed)",
+              "playing around with wxPython",
+              ""
+            ],
+            [
+              "4",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**eztv-extractor**](https://github.com/glogiotatidis/eztv-extractor)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@nkokkalis](https://github.com/nkokkalis)/[**UniFeed**](https://github.com/nkokkalis/UniFeed)",
+              "A web-scraper for www.unipi.gr which extracts an Atom feed.",
+              ""
+            ],
+            [
+              "3",
+              "[@vrypan](https://github.com/vrypan)/[**simplesto**](https://github.com/vrypan/simplesto)",
+              "Simple Storage server",
+              ""
+            ],
+            [
+              "3",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**apt-btrfs-snapshot**](https://github.com/skorokithakis/apt-btrfs-snapshot)",
+              "A fork of apt-btrfs-snapshot.",
+              ""
+            ],
+            [
+              "2",
+              "[@johngian](https://github.com/johngian)/[**Forthnet-SMS**](https://github.com/johngian/Forthnet-SMS)",
+              "Python script for sending text-messages via Forthnet WebSms service, based in Python & Mechanize",
+              ""
+            ],
+            [
+              "2",
+              "[@glogiotatidis](https://github.com/glogiotatidis)/[**mopidy-rfid-frontend**](https://github.com/glogiotatidis/mopidy-rfid-frontend)",
+              "Mopidy extension to load Albums from RFID tags",
+              ""
+            ],
+            [
+              "2",
+              "[@orestis](https://github.com/orestis)/[**python**](https://github.com/orestis/python)",
+              "an UNOFFICIAL git-svn mirror of python",
+              ""
+            ],
+            [
+              "2",
+              "[@xrg](https://github.com/xrg)/[**openerp-client**](https://github.com/xrg/openerp-client)",
+              "GTK client to OpenERP",
+              ""
+            ],
+            [
+              "2",
+              "[@xrg](https://github.com/xrg)/[**OpenERP-addons**](https://github.com/xrg/OpenERP-addons)",
+              "Main addons for OpenERP",
+              ""
+            ],
+            [
+              "2",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**back-scratcher**](https://github.com/skorokithakis/back-scratcher)",
+              "A back scratching robot!",
+              ""
+            ],
+            [
+              "2",
+              "[@skorokithakis](https://github.com/skorokithakis)/[**photocopy**](https://github.com/skorokithakis/photocopy)",
+              "A script to archive photos off a camera to a directory.",
               ""
             ]
           ]
