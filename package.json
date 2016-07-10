@@ -67,7 +67,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -2843,6 +2844,27 @@
               "2",
               "[@istlab](https://github.com/istlab)/[**web**](https://github.com/istlab/web)",
               "ISTLab web site",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@teoulas](https://github.com/teoulas)/[**vimfiles**](https://github.com/teoulas/vimfiles)",
+              "My vim configuration",
               ""
             ]
           ]
