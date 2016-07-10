@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -1106,6 +1107,27 @@
               "[@dgkanatsios](https://github.com/dgkanatsios)/[**Raspberry**](https://github.com/dgkanatsios/Raspberry)",
               "Includes various samples for Raspberry Pi running Windows 10 IoT Core, Azure IoT Hub and more!",
               "[:arrow_upper_right:](http://dgkanatsios.com/2015/12/25/raspberry-weather-shield-azure-iot-hub-streaming-analytics-and-more/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@iridakos](https://github.com/iridakos)/[**hangman**](https://github.com/iridakos/hangman)",
+              "Implementation of the Hangman application of www.arubystory.com tutorials.",
+              ""
             ]
           ]
         }
