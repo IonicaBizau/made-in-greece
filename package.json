@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -1685,6 +1686,27 @@
               "2",
               "[@acharal](https://github.com/acharal)/[**wam**](https://github.com/acharal/wam)",
               "A simple compiler from Prolog to WAM (Warren Abstract Machine) and a runtime for WAM.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@Chuitox](https://github.com/Chuitox)/[**xenobot-casino**](https://github.com/Chuitox/xenobot-casino)",
+              "A script to play several games in Tibia with Xenobot",
               ""
             ]
           ]
