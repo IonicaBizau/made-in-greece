@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -1559,6 +1560,27 @@
               "2",
               "[@okinp](https://github.com/okinp)/[**3dsavFinal**](https://github.com/okinp/3dsavFinal)",
               "Final project for the 3DSAV class",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@SudoPlz](https://github.com/SudoPlz)/[**StarlingHardpageFlip**](https://github.com/SudoPlz/StarlingHardpageFlip)",
+              "This is code, that immitates the hard page flip effect on Starling game framework. Got this from NeoGuo, he made the code, I just tried to adjust it on my project. ",
               ""
             ]
           ]
