@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -1149,6 +1150,225 @@
               "66",
               "[@hootlex](https://github.com/hootlex)/[**vuejs-paginator**](https://github.com/hootlex/vuejs-paginator)",
               "A Vue.js plugin to easily integrate pagination.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "210",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**monsterwm**](https://github.com/c00kiemon5ter/monsterwm)",
+              "tiny but monstrous tiling window manager",
+              "[:arrow_upper_right:](https://github.com/c00kiemon5ter/monsterwm)"
+            ],
+            [
+              "40",
+              "[@sdroege](https://github.com/sdroege)/[**gst-player**](https://github.com/sdroege/gst-player)",
+              "GStreamer Playback API",
+              ""
+            ],
+            [
+              "25",
+              "[@sdroege](https://github.com/sdroege)/[**http-launch**](https://github.com/sdroege/http-launch)",
+              "Simple GStreamer HTTP live streaming from a pipeline description",
+              ""
+            ],
+            [
+              "20",
+              "[@noodlylight](https://github.com/noodlylight)/[**fusilli**](https://github.com/noodlylight/fusilli)",
+              "X Window Manager (Compiz fork)",
+              ""
+            ],
+            [
+              "14",
+              "[@stratosk](https://github.com/stratosk)/[**semaphore**](https://github.com/stratosk/semaphore)",
+              "Semaphore kernel Samsung Galaxy I9000",
+              ""
+            ],
+            [
+              "12",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**iim**](https://github.com/c00kiemon5ter/iim)",
+              "ii improved - minimalist FIFO and filesystem-based IRC client inspired by suckless ii",
+              ""
+            ],
+            [
+              "12",
+              "[@AmmarkoV](https://github.com/AmmarkoV)/[**RoboVision**](https://github.com/AmmarkoV/RoboVision)",
+              "Attempting to create a program capable of combining stereo video input , with motors and other sensors on a PC running linux  , the target is embedded linux for use in a robot!",
+              "[:arrow_upper_right:](http://ammar.gr/gddg)"
+            ],
+            [
+              "11",
+              "[@huku-](https://github.com/huku-)/[**pyxed**](https://github.com/huku-/pyxed)",
+              "Python bindings for Intel's XED",
+              ""
+            ],
+            [
+              "7",
+              "[@mfragkoulis](https://github.com/mfragkoulis)/[**PiCO_QL**](https://github.com/mfragkoulis/PiCO_QL)",
+              "SQL query interface to C++ collections and C data structures. Also configurable as a loadable Linux kernel module and an extension to Valgrind tools.",
+              ""
+            ],
+            [
+              "7",
+              "[@huku-](https://github.com/huku-)/[**pyrsistence**](https://github.com/huku-/pyrsistence)",
+              "A Python extension for managing External Memory Data Structures (EMDs)",
+              ""
+            ],
+            [
+              "6",
+              "[@sdroege](https://github.com/sdroege)/[**gst-snippets**](https://github.com/sdroege/gst-snippets)",
+              "Some small GStreamer example applications",
+              ""
+            ],
+            [
+              "6",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**bgs**](https://github.com/c00kiemon5ter/bgs)",
+              "simple background setter",
+              ""
+            ],
+            [
+              "6",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**mopag**](https://github.com/c00kiemon5ter/mopag)",
+              "monsterwm-pager - slim bar to show #desktops and #windows per desktop",
+              ""
+            ],
+            [
+              "6",
+              "[@lvrach](https://github.com/lvrach)/[**MiKey**](https://github.com/lvrach/MiKey)",
+              "MiKey is a minimal and modular Linux keylogger. It provides a toolkit that monitors and records all activities performed on a computer. It makes use of the Xlib.",
+              ""
+            ],
+            [
+              "6",
+              "[@sdroege](https://github.com/sdroege)/[**snippets**](https://github.com/sdroege/snippets)",
+              "Some algorithms and data structures",
+              ""
+            ],
+            [
+              "5",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**mstatusbar**](https://github.com/c00kiemon5ter/mstatusbar)",
+              "monsterwm output parser and info collector",
+              "[:arrow_upper_right:](https://bbs.archlinux.org/viewtopic.php?pid=1199081#p1199081)"
+            ],
+            [
+              "5",
+              "[@a-yiorgos](https://github.com/a-yiorgos)/[**tcpmux**](https://github.com/a-yiorgos/tcpmux)",
+              "The reference implementation for RFC-1078 (TCPMUX) from 1988",
+              ""
+            ],
+            [
+              "4",
+              "[@AmmarkoV](https://github.com/AmmarkoV)/[**RGBDAcquisition**](https://github.com/AmmarkoV/RGBDAcquisition)",
+              "A uniform library wrapper for input from libfreenect,OpenNI,OpenNI2,OpenGL simulations and other types of video and depth input..",
+              "[:arrow_upper_right:](http://ammar.gr)"
+            ],
+            [
+              "4",
+              "[@chefarov](https://github.com/chefarov)/[**checkers**](https://github.com/chefarov/checkers)",
+              "alpha-beta (with IDS) implementation for checkers game",
+              ""
+            ],
+            [
+              "4",
+              "[@huku-](https://github.com/huku-)/[**injectdso**](https://github.com/huku-/injectdso)",
+              "A collection of tools for injecting DSOs in processes under various operating systems",
+              ""
+            ],
+            [
+              "3",
+              "[@acinonyx](https://github.com/acinonyx)/[**openwrt**](https://github.com/acinonyx/openwrt)",
+              "OpenWrt repository",
+              ""
+            ],
+            [
+              "3",
+              "[@noodlylight](https://github.com/noodlylight)/[**rotini**](https://github.com/noodlylight/rotini)",
+              "Window Decorator (Emerald fork)",
+              ""
+            ],
+            [
+              "3",
+              "[@AmmarkoV](https://github.com/AmmarkoV)/[**AmmarServer**](https://github.com/AmmarkoV/AmmarServer)",
+              "A lightweight http server for linux",
+              ""
+            ],
+            [
+              "3",
+              "[@acinonyx](https://github.com/acinonyx)/[**olsrd**](https://github.com/acinonyx/olsrd)",
+              "OLSRd repository",
+              ""
+            ],
+            [
+              "3",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**niii**](https://github.com/c00kiemon5ter/niii)",
+              "ncurses frontend to ii similar to iii",
+              ""
+            ],
+            [
+              "3",
+              "[@psomas](https://github.com/psomas)/[**lguest64**](https://github.com/psomas/lguest64)",
+              "wannabe (up-to-date) 64bit port of lguest",
+              "[:arrow_upper_right:](http://lguest.ozlabs.org/)"
+            ],
+            [
+              "3",
+              "[@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**wm**](https://github.com/c00kiemon5ter/wm)",
+              "ɯm - fully dynamic tag-based window manager built upon XCB",
+              ""
+            ],
+            [
+              "2",
+              "[@chefarov](https://github.com/chefarov)/[**knightsTour_OMP**](https://github.com/chefarov/knightsTour_OMP)",
+              "Knight's tour implementation using OpenMP for parallelization",
+              ""
+            ],
+            [
+              "2",
+              "[@netharis](https://github.com/netharis)/[**ccn_simple**](https://github.com/netharis/ccn_simple)",
+              "A simple implementation of CCN by @PARC labs",
+              ""
+            ],
+            [
+              "2",
+              "[@AmmarkoV](https://github.com/AmmarkoV)/[**AdvancedImageSearch**](https://github.com/AmmarkoV/AdvancedImageSearch)",
+              "The purpose of this library are command line tools that enable content-aware image browsing from the CLI..",
+              ""
+            ],
+            [
+              "2",
+              "[@AmmarkoV](https://github.com/AmmarkoV)/[**ATFTP**](https://github.com/AmmarkoV/ATFTP)",
+              "A Trivial File transfer Protocol Server/Client",
+              "[:arrow_upper_right:](http://ammar.gr)"
+            ],
+            [
+              "2",
+              "[@papanikge](https://github.com/papanikge)/[**udp-chat**](https://github.com/papanikge/udp-chat)",
+              "An experimental UDP chat client based on a TCP server for initialization",
+              ""
+            ],
+            [
+              "2",
+              "[@acinonyx](https://github.com/acinonyx)/[**olsrd-quagga**](https://github.com/acinonyx/olsrd-quagga)",
+              "OLSRd Quagga plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@chefarov](https://github.com/chefarov)/[**simple_twitter**](https://github.com/chefarov/simple_twitter)",
+              "A simple server client app using posix sockets. Clients speaks, twithear listens from twitsay",
               ""
             ]
           ]
