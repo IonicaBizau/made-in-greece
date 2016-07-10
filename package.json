@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1846,6 +1847,231 @@
               "[@akarelas](https://github.com/akarelas)/[**xml-myxml**](https://github.com/akarelas/xml-myxml)",
               "The official repository of the XML::MyXML Perl module",
               "[:arrow_upper_right:](https://metacpan.org/module/XML::MyXML)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "582",
+              "[@aristath](https://github.com/aristath)/[**kirki**](https://github.com/aristath/kirki)",
+              "Extending the customizer",
+              "[:arrow_upper_right:](https://kirki.org)"
+            ],
+            [
+              "136",
+              "[@akDeveloper](https://github.com/akDeveloper)/[**Aktive-Merchant**](https://github.com/akDeveloper/Aktive-Merchant)",
+              "A php port of Active Merchant payment project",
+              ""
+            ],
+            [
+              "113",
+              "[@aristath](https://github.com/aristath)/[**bootstrap-admin**](https://github.com/aristath/bootstrap-admin)",
+              "Administration theme for WordPress based on Twitter's Bootstrap",
+              ""
+            ],
+            [
+              "88",
+              "[@akDeveloper](https://github.com/akDeveloper)/[**yaf_base_application**](https://github.com/akDeveloper/yaf_base_application)",
+              "An example of a base application for Yaf framework",
+              ""
+            ],
+            [
+              "42",
+              "[@falexandrou](https://github.com/falexandrou)/[**Codeigniter-Social-R…**](https://github.com/falexandrou/Codeigniter-Social-Register)",
+              "A subsystem for Codeigniter which allows user registration/login with Facebook/Twitter",
+              "[:arrow_upper_right:](http://www.redmark.gr)"
+            ],
+            [
+              "25",
+              "[@bekos](https://github.com/bekos)/[**php-validation**](https://github.com/bekos/php-validation)",
+              "Form validation",
+              ""
+            ],
+            [
+              "17",
+              "[@itsam](https://github.com/itsam)/[**imc**](https://github.com/itsam/imc)",
+              "Improve My City :: The new extension package for Joomla 3",
+              ""
+            ],
+            [
+              "15",
+              "[@aristath](https://github.com/aristath)/[**edd-remote-installer**](https://github.com/aristath/edd-remote-installer)",
+              "This is a remote installer for plugins hosted on a site running EDD. The package consists of a plugin that has to be installed on a server running EDD (and optionally EDD-SL) and a plugin that serves as a client.",
+              ""
+            ],
+            [
+              "12",
+              "[@falexandrou](https://github.com/falexandrou)/[**Codeigniter-Wordpres…**](https://github.com/falexandrou/Codeigniter-Wordpress-Integration)",
+              "Some examples on how to integrate Codeigniter with Wordpress",
+              "[:arrow_upper_right:](http://www.redmark.gr)"
+            ],
+            [
+              "10",
+              "[@aristath](https://github.com/aristath)/[**kirki-helpers**](https://github.com/aristath/kirki-helpers)",
+              "Helper scripts for theme authors",
+              ""
+            ],
+            [
+              "8",
+              "[@aristath](https://github.com/aristath)/[**magazitheme**](https://github.com/aristath/magazitheme)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@falexandrou](https://github.com/falexandrou)/[**html5lib-php**](https://github.com/falexandrou/html5lib-php)",
+              "html5lib-php",
+              ""
+            ],
+            [
+              "7",
+              "[@aristath](https://github.com/aristath)/[**ariColor**](https://github.com/aristath/ariColor)",
+              "A PHP library for color manipulation in themes and plugins",
+              "[:arrow_upper_right:](http://aristath.github.io/ariColor)"
+            ],
+            [
+              "7",
+              "[@bekos](https://github.com/bekos)/[**ColumnListView**](https://github.com/bekos/ColumnListView)",
+              "Yii extension for CListView items separated evenly in columns.",
+              ""
+            ],
+            [
+              "7",
+              "[@aristath](https://github.com/aristath)/[**kirki-demo**](https://github.com/aristath/kirki-demo)",
+              "demo theme for the Kirki WordPress plugin",
+              ""
+            ],
+            [
+              "7",
+              "[@vdw](https://github.com/vdw)/[**Greek-string-to-uppe…**](https://github.com/vdw/Greek-string-to-uppercase)",
+              "Correctly converts greek letters to uppercase. (codeIgniter string helpers greek string to uppercase)",
+              "[:arrow_upper_right:](http://vdw.staytuned.gr/codeigniter-string-helpers-greek-string-to-uppercase/)"
+            ],
+            [
+              "6",
+              "[@aristath](https://github.com/aristath)/[**MarketPress-Statisti…**](https://github.com/aristath/MarketPress-Statistics)",
+              "WordPress plugin that shows off your MarketPress sales data using google charts",
+              ""
+            ],
+            [
+              "5",
+              "[@frankmayer](https://github.com/frankmayer)/[**ArangoDB-PHP-Core**](https://github.com/frankmayer/ArangoDB-PHP-Core)",
+              "A lightweight, and at the same time flexible \"very\"-low-level ArangoDB client for PHP.",
+              ""
+            ],
+            [
+              "4",
+              "[@nikan](https://github.com/nikan)/[**bookmeta**](https://github.com/nikan/bookmeta)",
+              "Book metadata extraction from biblionet.gr",
+              ""
+            ],
+            [
+              "3",
+              "[@falexandrou](https://github.com/falexandrou)/[**fuelphp-zend**](https://github.com/falexandrou/fuelphp-zend)",
+              "A FuelPHP package that enables Zend libraries to be used in FuelPHP applications",
+              ""
+            ],
+            [
+              "3",
+              "[@andyhot](https://github.com/andyhot)/[**twitter-kohana**](https://github.com/andyhot/twitter-kohana)",
+              "Twitter integration for kohana 2.x",
+              ""
+            ],
+            [
+              "2",
+              "[@gtklocker](https://github.com/gtklocker)/[**question_a_day**](https://github.com/gtklocker/question_a_day)",
+              "My assignment for the web seminar of AUTH.",
+              "[:arrow_upper_right:](http://webseminars.ee.auth.gr/#assignments-6)"
+            ],
+            [
+              "2",
+              "[@petsagouris](https://github.com/petsagouris)/[**lang_greek**](https://github.com/petsagouris/lang_greek)",
+              "Greek translation for Symphony CMS",
+              ""
+            ],
+            [
+              "2",
+              "[@andyhot](https://github.com/andyhot)/[**yaat-kohana**](https://github.com/andyhot/yaat-kohana)",
+              "Yet Another Admin Tool (Kohana)",
+              ""
+            ],
+            [
+              "2",
+              "[@andyhot](https://github.com/andyhot)/[**bugsense-php**](https://github.com/andyhot/bugsense-php)",
+              "Integrate bugsense.com with php",
+              ""
+            ],
+            [
+              "2",
+              "[@themicp](https://github.com/themicp)/[**Librarium**](https://github.com/themicp/Librarium)",
+              "",
+              "[:arrow_upper_right:](http://themicp.com/librarium)"
+            ],
+            [
+              "2",
+              "[@frankmayer](https://github.com/frankmayer)/[**ArangoDB-PHP-Core-Gu…**](https://github.com/frankmayer/ArangoDB-PHP-Core-Guzzle)",
+              "This library adds Guzzle 5 support to the ArangoDB-PHP-Core client.",
+              ""
+            ],
+            [
+              "2",
+              "[@nikan](https://github.com/nikan)/[**metamarks**](https://github.com/nikan/metamarks)",
+              "A wordpress sharing buttons widget for Greek and Intl bookmarking sites",
+              "[:arrow_upper_right:](http://metablogging.gr/metamarks/)"
+            ],
+            [
+              "2",
+              "[@aristath](https://github.com/aristath)/[**marketpress-products…**](https://github.com/aristath/marketpress-products-slider)",
+              "A products slider for MarketPress (DEPRECATED, NO LONGER MAINAINED)",
+              ""
+            ],
+            [
+              "2",
+              "[@aristath](https://github.com/aristath)/[**plastic**](https://github.com/aristath/plastic)",
+              "Polymer theme for WordPress based on _s",
+              ""
+            ],
+            [
+              "2",
+              "[@akDeveloper](https://github.com/akDeveloper)/[**akMailer**](https://github.com/akDeveloper/akMailer)",
+              "Send emails using template files",
+              ""
+            ],
+            [
+              "2",
+              "[@aristath](https://github.com/aristath)/[**shoestrap**](https://github.com/aristath/shoestrap)",
+              "An experimental WordPress theme using underscore.js for its templates",
+              ""
+            ],
+            [
+              "2",
+              "[@themicp](https://github.com/themicp)/[**Linear-Algebra**](https://github.com/themicp/Linear-Algebra)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@aristath](https://github.com/aristath)/[**ornea**](https://github.com/aristath/ornea)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@andyhot](https://github.com/andyhot)/[**flatpress-plugins**](https://github.com/andyhot/flatpress-plugins)",
+              "Plugins for flatpress.org blogging engine",
+              ""
             ]
           ]
         }
