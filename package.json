@@ -61,7 +61,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -2447,6 +2448,39 @@
               "2",
               "[@skorokithakis](https://github.com/skorokithakis)/[**photocopy**](https://github.com/skorokithakis/photocopy)",
               "A script to archive photos off a camera to a directory.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "25",
+              "[@IronistM](https://github.com/IronistM)/[**R_Google_Analytics**](https://github.com/IronistM/R_Google_Analytics)",
+              "This is the repo with the code snippets that supply the \"R + Google Analytics = FUN\" post regarding getting speed metrics and clickstream data off of the GA API to R.",
+              "[:arrow_upper_right:](http://www.statsravingmad.com/measure/google-analytics-r-fun/)"
+            ],
+            [
+              "3",
+              "[@IronistM](https://github.com/IronistM)/[**ab_testing_plots**](https://github.com/IronistM/ab_testing_plots)",
+              "This is the repo with the code snippets that supply the \"Basic A/B Testing plots and stats with R\" post regarding getting Content Experiment data off of the GA API to R.",
+              "[:arrow_upper_right:](http://www.statsravingmad.com/basic-ab-testing-plots-and-stats-with-r/)"
+            ],
+            [
+              "2",
+              "[@IronistM](https://github.com/IronistM)/[**R_Google_Analytics_D…**](https://github.com/IronistM/R_Google_Analytics_Doc)",
+              "A small attempt to create a fast documentation of a Google Analytics deployment using R",
               ""
             ]
           ]
