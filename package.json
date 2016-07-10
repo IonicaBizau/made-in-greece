@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -1707,6 +1708,27 @@
               "3",
               "[@Chuitox](https://github.com/Chuitox)/[**xenobot-casino**](https://github.com/Chuitox/xenobot-casino)",
               "A script to play several games in Tibia with Xenobot",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@EliasKokkinis](https://github.com/EliasKokkinis)/[**audio-source-separat…**](https://github.com/EliasKokkinis/audio-source-separation)",
+              "This repository contains MATLAB scripts that implement some of the methods discussed in the ECESCON 8 workshop on Audio Source Separation",
               ""
             ]
           ]
