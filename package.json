@@ -38,5 +38,716 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-greece/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-greece#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-greece#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2553",
+              "[@malihu](https://github.com/malihu)/[**malihu-custom-scroll…**](https://github.com/malihu/malihu-custom-scrollbar-plugin)",
+              "Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.",
+              "[:arrow_upper_right:](http://manos.malihu.gr/jquery-custom-content-scroller)"
+            ],
+            [
+              "584",
+              "[@scoumbourdis](https://github.com/scoumbourdis)/[**grocery-crud**](https://github.com/scoumbourdis/grocery-crud)",
+              "Grocery CRUD is a PHP Codeigniter Framework library that creates a full functional CRUD system without the requirement of extra customisation to the JavaScripts or the CSS to do it so.",
+              "[:arrow_upper_right:](http://www.grocerycrud.com)"
+            ],
+            [
+              "361",
+              "[@tsironis](https://github.com/tsironis)/[**lockr**](https://github.com/tsironis/lockr)",
+              "A minimal API wrapper for localStorage",
+              ""
+            ],
+            [
+              "251",
+              "[@gmosx](https://github.com/gmosx)/[**appengine**](https://github.com/gmosx/appengine)",
+              "Google App Engine for Javascript",
+              "[:arrow_upper_right:](www.appenginejs.org)"
+            ],
+            [
+              "151",
+              "[@pontikis](https://github.com/pontikis)/[**bs_grid**](https://github.com/pontikis/bs_grid)",
+              "Bootstrap Datagrid",
+              ""
+            ],
+            [
+              "143",
+              "[@drumaddict](https://github.com/drumaddict)/[**angular-yii**](https://github.com/drumaddict/angular-yii)",
+              "A Gallery Manager demo application with Yii (PHP) REST backend and AngularJS frontend.",
+              ""
+            ],
+            [
+              "92",
+              "[@thanpolas](https://github.com/thanpolas)/[**grunt-closure-tools**](https://github.com/thanpolas/grunt-closure-tools)",
+              "Google Closure Tools for grunt",
+              ""
+            ],
+            [
+              "87",
+              "[@thanpolas](https://github.com/thanpolas)/[**mantri**](https://github.com/thanpolas/mantri)",
+              "Javascript Dependency System Extraordinaire",
+              "[:arrow_upper_right:](http://mantrijs.com)"
+            ],
+            [
+              "79",
+              "[@scoumbourdis](https://github.com/scoumbourdis)/[**image-crud**](https://github.com/scoumbourdis/image-crud)",
+              "Image CRUD",
+              "[:arrow_upper_right:](http://www.grocerycrud.com/image-crud)"
+            ],
+            [
+              "75",
+              "[@varemenos](https://github.com/varemenos)/[**codemagic**](https://github.com/varemenos/codemagic)",
+              "Codemagic.gr is a powerful online code editor for web development! It's open-source and it follows the philosophy of client-side and fast execution. It's built for creative people who do a lot of web-related experiments and want to test stuff in real-time without the hassle of preparing project files and whatnot. It is also a great place for people to come and learn various web-technologies like HTML, CSS, JS and their derivatives.",
+              "[:arrow_upper_right:](http://codemagic.gr)"
+            ],
+            [
+              "74",
+              "[@gmosx](https://github.com/gmosx)/[**nitro**](https://github.com/gmosx/nitro)",
+              "Nitro Web Application Framework",
+              "[:arrow_upper_right:](www.nitrojs.org)"
+            ],
+            [
+              "58",
+              "[@past](https://github.com/past)/[**speller**](https://github.com/past/speller)",
+              "A spell-checker written in JavaScript",
+              "[:arrow_upper_right:](http://past.github.com/speller/)"
+            ],
+            [
+              "54",
+              "[@pontikis](https://github.com/pontikis)/[**jui_datagrid**](https://github.com/pontikis/jui_datagrid)",
+              "jQuery datagrid plugin using jQuery UI CSS Framework ",
+              ""
+            ],
+            [
+              "54",
+              "[@gmosx](https://github.com/gmosx)/[**inflection**](https://github.com/gmosx/inflection)",
+              "A port of the Rails/ActiveSupport inflector to JavaScript",
+              "[:arrow_upper_right:](http://www.nitrojs.org)"
+            ],
+            [
+              "53",
+              "[@malihu](https://github.com/malihu)/[**thumbnail-scroller**](https://github.com/malihu/thumbnail-scroller)",
+              "An image scroller plugin that can be used as standalone or along side lightboxes, gallery scripts etc.",
+              ""
+            ],
+            [
+              "49",
+              "[@thanpolas](https://github.com/thanpolas)/[**generator-closure**](https://github.com/thanpolas/generator-closure)",
+              "Closure Library generator using Yeoman",
+              ""
+            ],
+            [
+              "48",
+              "[@past](https://github.com/past)/[**nodify**](https://github.com/past/nodify)",
+              "A web-based IDE for Node.JS applications",
+              "[:arrow_upper_right:](http://nodifyjs.com)"
+            ],
+            [
+              "33",
+              "[@drumaddict](https://github.com/drumaddict)/[**ember-yii**](https://github.com/drumaddict/ember-yii)",
+              "Ember.js and with  Yii (PHP) REST API Backend,Demo",
+              ""
+            ],
+            [
+              "33",
+              "[@gmosx](https://github.com/gmosx)/[**normal-template**](https://github.com/gmosx/normal-template)",
+              "A simple, powerful and safe templating engine",
+              "[:arrow_upper_right:](http://www.nitrojs.org)"
+            ],
+            [
+              "33",
+              "[@pontikis](https://github.com/pontikis)/[**jui_dropdown**](https://github.com/pontikis/jui_dropdown)",
+              "jquery ui simple dropdown menu",
+              ""
+            ],
+            [
+              "31",
+              "[@gmosx](https://github.com/gmosx)/[**markdown**](https://github.com/gmosx/markdown)",
+              "A port of Markdown to Javascript (Showdown)",
+              "[:arrow_upper_right:](http://attacklab.net/showdown/)"
+            ],
+            [
+              "30",
+              "[@pontikis](https://github.com/pontikis)/[**jui_filter_rules**](https://github.com/pontikis/jui_filter_rules)",
+              "Create rules to filter dataset using jquery",
+              ""
+            ],
+            [
+              "30",
+              "[@drumaddict](https://github.com/drumaddict)/[**YiiApp**](https://github.com/drumaddict/YiiApp)",
+              "Yii Project Template with Bootstrap layouts and Bootswatch color skins.",
+              ""
+            ],
+            [
+              "30",
+              "[@gmosx](https://github.com/gmosx)/[**htmlparser**](https://github.com/gmosx/htmlparser)",
+              "The  HTML Parser is an implementation of the HTML5 parsing algorithm packaged for CommonJS",
+              "[:arrow_upper_right:](http://www.nitrojs.org)"
+            ],
+            [
+              "29",
+              "[@thanpolas](https://github.com/thanpolas)/[**grunt-github-pages**](https://github.com/thanpolas/grunt-github-pages)",
+              "Push to gh-pages no problem",
+              ""
+            ],
+            [
+              "29",
+              "[@tsevdos](https://github.com/tsevdos)/[**Gulp-boilerplate-for…**](https://github.com/tsevdos/Gulp-boilerplate-for-web-designers)",
+              "Gulp boilerplate for web designers",
+              ""
+            ],
+            [
+              "27",
+              "[@malihu](https://github.com/malihu)/[**jquery-style-my-tool…**](https://github.com/malihu/jquery-style-my-tooltips)",
+              "A simple jQuery plugin to enhance the look of browser tooltips. Small in size script that works just like browser’s native tooltips with few options and styling via CSS.",
+              ""
+            ],
+            [
+              "25",
+              "[@skounis](https://github.com/skounis)/[**supermodular**](https://github.com/skounis/supermodular)",
+              "A super modular Ionic starter application",
+              ""
+            ],
+            [
+              "24",
+              "[@malihu](https://github.com/malihu)/[**mresize**](https://github.com/malihu/mresize)",
+              "Event based jQuery element resize ",
+              ""
+            ],
+            [
+              "22",
+              "[@drumaddict](https://github.com/drumaddict)/[**yii-jstree-behavior**](https://github.com/drumaddict/yii-jstree-behavior)",
+              "Tree graphic manipulation of an ActiveRecord with NestedSet Behavior using jstree plugin.",
+              ""
+            ],
+            [
+              "21",
+              "[@thanpolas](https://github.com/thanpolas)/[**ready.js**](https://github.com/thanpolas/ready.js)",
+              "Watch multiple async operations and trigger listeners when all are complete",
+              ""
+            ],
+            [
+              "20",
+              "[@pontikis](https://github.com/pontikis)/[**bs_pagination**](https://github.com/pontikis/bs_pagination)",
+              "bootstrap 3 pagination",
+              ""
+            ],
+            [
+              "20",
+              "[@tsevdos](https://github.com/tsevdos)/[**greek-in-tech**](https://github.com/tsevdos/greek-in-tech)",
+              "An ES6, Backbone, single page application (SPA), that demonstrates many greek words and names that we constantly use on modern computing and software engineering",
+              "[:arrow_upper_right:](http://greekintech.com)"
+            ],
+            [
+              "19",
+              "[@tsevdos](https://github.com/tsevdos)/[**Grunt-boilerplate-fo…**](https://github.com/tsevdos/Grunt-boilerplate-for-web-designers)",
+              "Grunt boilerplate for web designers",
+              ""
+            ],
+            [
+              "19",
+              "[@thanpolas](https://github.com/thanpolas)/[**nodeON**](https://github.com/thanpolas/nodeON)",
+              "node.js web application scaffolding",
+              ""
+            ],
+            [
+              "18",
+              "[@georapbox](https://github.com/georapbox)/[**angular-PubSub**](https://github.com/georapbox/angular-PubSub)",
+              "AngularJS PubSub Service",
+              ""
+            ],
+            [
+              "18",
+              "[@georapbox](https://github.com/georapbox)/[**brackets-JSLint-Conf…**](https://github.com/georapbox/brackets-JSLint-Configurator)",
+              "Brackets extension that enables configuration of JSLint options.",
+              ""
+            ],
+            [
+              "15",
+              "[@thanpolas](https://github.com/thanpolas)/[**server2js**](https://github.com/thanpolas/server2js)",
+              "Transfer data objects from server to javascript on page load.",
+              ""
+            ],
+            [
+              "14",
+              "[@thanpolas](https://github.com/thanpolas)/[**entity**](https://github.com/thanpolas/entity)",
+              "MVCe",
+              ""
+            ],
+            [
+              "13",
+              "[@stelabouras](https://github.com/stelabouras)/[**Otomata**](https://github.com/stelabouras/Otomata)",
+              "Otomata music generator made in HTML5 using canvas",
+              "[:arrow_upper_right:](http://dl.dropbox.com/u/20485/otomata/index.html)"
+            ],
+            [
+              "13",
+              "[@past](https://github.com/past)/[**memory-profiler**](https://github.com/past/memory-profiler)",
+              "An add-on for Firefox Developer Tools that allows inspection of the memory consumption of a page",
+              ""
+            ],
+            [
+              "12",
+              "[@past](https://github.com/past)/[**node-webdav**](https://github.com/past/node-webdav)",
+              "An experiment for a Node.JS-based WebDAV server",
+              ""
+            ],
+            [
+              "12",
+              "[@georapbox](https://github.com/georapbox)/[**brackets-notes**](https://github.com/georapbox/brackets-notes)",
+              "Brackets extension that allows adding and managing notes, with Markdown support.",
+              ""
+            ],
+            [
+              "12",
+              "[@sirodoht](https://github.com/sirodoht)/[**ketchup**](https://github.com/sirodoht/ketchup)",
+              "Pomodoro timer in React",
+              "[:arrow_upper_right:](https://ketchuptime.xyz/)"
+            ],
+            [
+              "12",
+              "[@thanpolas](https://github.com/thanpolas)/[**middlewarify**](https://github.com/thanpolas/middlewarify)",
+              "Apply the middleware pattern to any property or function",
+              ""
+            ],
+            [
+              "11",
+              "[@thanpolas](https://github.com/thanpolas)/[**profy**](https://github.com/thanpolas/profy)",
+              "Stress test your apps and measure performance",
+              ""
+            ],
+            [
+              "11",
+              "[@georapbox](https://github.com/georapbox)/[**brackets-angular-sni…**](https://github.com/georapbox/brackets-angular-snippets)",
+              "A collection of AngularJS snippets for Brackets.",
+              ""
+            ],
+            [
+              "10",
+              "[@thanpolas](https://github.com/thanpolas)/[**superstartup**](https://github.com/thanpolas/superstartup)",
+              "The Super Startup Javascript library! User system, metrics, sharing widgets and star dust!",
+              ""
+            ],
+            [
+              "10",
+              "[@thanpolas](https://github.com/thanpolas)/[**crude**](https://github.com/thanpolas/crude)",
+              "CRUD automation for node",
+              ""
+            ],
+            [
+              "9",
+              "[@past](https://github.com/past)/[**despin**](https://github.com/past/despin)",
+              "A text editor for Firefox",
+              "[:arrow_upper_right:](http://past.github.com/despin/)"
+            ],
+            [
+              "9",
+              "[@drumaddict](https://github.com/drumaddict)/[**Yii_Frontend_Backend**](https://github.com/drumaddict/Yii_Frontend_Backend)",
+              "A starter project template for Yii implementing frontend/backend file structure.",
+              ""
+            ],
+            [
+              "8",
+              "[@georapbox](https://github.com/georapbox)/[**brackets-jade-snippe…**](https://github.com/georapbox/brackets-jade-snippets)",
+              "A collection of Jade snippets for Brackets editor.",
+              ""
+            ],
+            [
+              "7",
+              "[@thanpolas](https://github.com/thanpolas)/[**cip**](https://github.com/thanpolas/cip)",
+              "Classical Inheritance Pattern at its best.",
+              ""
+            ],
+            [
+              "7",
+              "[@thanpolas](https://github.com/thanpolas)/[**gitfox**](https://github.com/thanpolas/gitfox)",
+              "A github client for firefox OS",
+              ""
+            ],
+            [
+              "6",
+              "[@gmosx](https://github.com/gmosx)/[**ui**](https://github.com/gmosx/ui)",
+              "Client-side User Interface for Web Applications",
+              "[:arrow_upper_right:](http://www.nitrojs.org)"
+            ],
+            [
+              "6",
+              "[@georapbox](https://github.com/georapbox)/[**jsEssentials**](https://github.com/georapbox/jsEssentials)",
+              " :metal: A collection of standalone javascript utility functions.",
+              ""
+            ],
+            [
+              "6",
+              "[@sirodoht](https://github.com/sirodoht)/[**aspen**](https://github.com/sirodoht/aspen)",
+              "Yet another Node.js boilerplate",
+              ""
+            ],
+            [
+              "6",
+              "[@pontikis](https://github.com/pontikis)/[**jui_theme_switch**](https://github.com/pontikis/jui_theme_switch)",
+              "jquery ui themes switcher",
+              ""
+            ],
+            [
+              "6",
+              "[@gmosx](https://github.com/gmosx)/[**appengine-blog-examp…**](https://github.com/gmosx/appengine-blog-example)",
+              "A simple example powered by AppengineJS",
+              "[:arrow_upper_right:](http://www.appenginejs.org)"
+            ],
+            [
+              "6",
+              "[@panos-kosmidis](https://github.com/panos-kosmidis)/[**OxyNode**](https://github.com/panos-kosmidis/OxyNode)",
+              "OxyNode could considered as an application startup for node.js",
+              ""
+            ],
+            [
+              "6",
+              "[@panos-kosmidis](https://github.com/panos-kosmidis)/[**node-mailjet**](https://github.com/panos-kosmidis/node-mailjet)",
+              "API for mailjet.com",
+              ""
+            ],
+            [
+              "5",
+              "[@sirodoht](https://github.com/sirodoht)/[**es6-talk**](https://github.com/sirodoht/es6-talk)",
+              "Talk on ES6 features for Node.js meetup Thessaloniki - Mar 2016",
+              "[:arrow_upper_right:](https://sirodoht.github.io/es6-talk)"
+            ],
+            [
+              "5",
+              "[@thanpolas](https://github.com/thanpolas)/[**kansas**](https://github.com/thanpolas/kansas)",
+              "Usage limited API to go!",
+              ""
+            ],
+            [
+              "5",
+              "[@Maximilianos](https://github.com/Maximilianos)/[**jquery.step**](https://github.com/Maximilianos/jquery.step)",
+              "A jQuery plugin for looping through an element array or jQuery object with a delay / timeout between each step callback",
+              ""
+            ],
+            [
+              "5",
+              "[@pontikis](https://github.com/pontikis)/[**jui_alert**](https://github.com/pontikis/jui_alert)",
+              "jquery plugin which displays a user message (with timeout and close button)",
+              ""
+            ],
+            [
+              "5",
+              "[@stelabouras](https://github.com/stelabouras)/[**Breakout**](https://github.com/stelabouras/Breakout)",
+              "Breakout made in HTML5 using canvas and box2D library",
+              "[:arrow_upper_right:](http://dl.dropbox.com/u/20485/breakout/index.html)"
+            ],
+            [
+              "5",
+              "[@thanpolas](https://github.com/thanpolas)/[**perf-promises**](https://github.com/thanpolas/perf-promises)",
+              "Performance of promises",
+              ""
+            ],
+            [
+              "5",
+              "[@varemenos](https://github.com/varemenos)/[**grunt-boilerplate**](https://github.com/varemenos/grunt-boilerplate)",
+              "A easy-to-use and modular beginning with grunt",
+              ""
+            ],
+            [
+              "5",
+              "[@tsironis](https://github.com/tsironis)/[**backbone.immutable**](https://github.com/tsironis/backbone.immutable)",
+              "Creating models with immutable attributes",
+              ""
+            ],
+            [
+              "4",
+              "[@scoumbourdis](https://github.com/scoumbourdis)/[**grocerycrud-extras**](https://github.com/scoumbourdis/grocerycrud-extras)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@drumaddict](https://github.com/drumaddict)/[**mymusic-rails-api**](https://github.com/drumaddict/mymusic-rails-api)",
+              "Rails 5 API Demo faking a  simple Spotify-like service.Custom Siren Hypermedia adapter for Active Model Serializers.",
+              ""
+            ],
+            [
+              "4",
+              "[@Maximilianos](https://github.com/Maximilianos)/[**maxpanas.com**](https://github.com/Maximilianos/maxpanas.com)",
+              "My universal js blog. More coming soon.",
+              "[:arrow_upper_right:](http://maxpanas.com)"
+            ],
+            [
+              "4",
+              "[@tsevdos](https://github.com/tsevdos)/[**nwrapper**](https://github.com/tsevdos/nwrapper)",
+              "jQuery plug in",
+              "[:arrow_upper_right:](http://phrappe.com/javascript/wrap-any-amount-of-elements-with-jquery/)"
+            ],
+            [
+              "4",
+              "[@varemenos](https://github.com/varemenos)/[**aklp.gr**](https://github.com/varemenos/aklp.gr)",
+              "This is the source for my blog",
+              "[:arrow_upper_right:](http://aklp.gr)"
+            ],
+            [
+              "4",
+              "[@georapbox](https://github.com/georapbox)/[**brackets-JSHint-Conf…**](https://github.com/georapbox/brackets-JSHint-Configurator)",
+              "  Brackets extension that enables configuration of JSHint options.",
+              ""
+            ],
+            [
+              "3",
+              "[@stelabouras](https://github.com/stelabouras)/[**Zombie-Grooms**](https://github.com/stelabouras/Zombie-Grooms)",
+              "A simple HTML5 game",
+              ""
+            ],
+            [
+              "3",
+              "[@thanpolas](https://github.com/thanpolas)/[**Modernizr-CJS**](https://github.com/thanpolas/Modernizr-CJS)",
+              "Mdernizer tests in Common Module Format",
+              ""
+            ],
+            [
+              "3",
+              "[@georapbox](https://github.com/georapbox)/[**Mithril-Bootstrap-Mo…**](https://github.com/georapbox/Mithril-Bootstrap-Modal)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@past](https://github.com/past)/[**igss**](https://github.com/past/igss)",
+              "An iPhone web application for GSS",
+              "[:arrow_upper_right:](http://code.google.com/p/gss/)"
+            ],
+            [
+              "3",
+              "[@pontikis](https://github.com/pontikis)/[**jui_pagination**](https://github.com/pontikis/jui_pagination)",
+              "jQuery pagination plugin (using jQuery UI) ",
+              ""
+            ],
+            [
+              "3",
+              "[@Maximilianos](https://github.com/Maximilianos)/[**imgGlitch**](https://github.com/Maximilianos/imgGlitch)",
+              "Create an image glitch effect like this one: http://codepen.io/Maximilianos/pen/mergq…",
+              ""
+            ],
+            [
+              "3",
+              "[@drumaddict](https://github.com/drumaddict)/[**yii-ajax-crud-behavi…**](https://github.com/drumaddict/yii-ajax-crud-behavior)",
+              "Single Page CRUD operations on ActiveRecord models with controller behavior inherited AJAX actions",
+              ""
+            ],
+            [
+              "3",
+              "[@gmosx](https://github.com/gmosx)/[**sizzle**](https://github.com/gmosx/sizzle)",
+              "Sizzle packaged for CommonJS",
+              "[:arrow_upper_right:](http://sizzlejs.com/)"
+            ],
+            [
+              "3",
+              "[@gmosx](https://github.com/gmosx)/[**opensocial**](https://github.com/gmosx/opensocial)",
+              "OpenSocial JavaScript client",
+              "[:arrow_upper_right:](http://www.nitrojs.org)"
+            ],
+            [
+              "3",
+              "[@skounis](https://github.com/skounis)/[**admob**](https://github.com/skounis/admob)",
+              "This tutorial demonstrates how to integrate the AdMob service with your Titanium Mobile Application. Specifically, the demo project will show you how to create a simple mobile app and display AdMob ads there.",
+              "[:arrow_upper_right:](https://medium.com/titanium-templates/integrate-admob-with-appcelerator-titanium-34f081d4ad30)"
+            ],
+            [
+              "3",
+              "[@thanpolas](https://github.com/thanpolas)/[**qunit2node**](https://github.com/thanpolas/qunit2node)",
+              "QUnit adapter for nodeunit",
+              ""
+            ],
+            [
+              "3",
+              "[@thanpolas](https://github.com/thanpolas)/[**calendarth**](https://github.com/thanpolas/calendarth)",
+              "Fetch a public Google Calendar using AJAX",
+              ""
+            ],
+            [
+              "3",
+              "[@trachalakis](https://github.com/trachalakis)/[**fasttrack**](https://github.com/trachalakis/fasttrack)",
+              "A torrent tracker written in CakePHP",
+              ""
+            ],
+            [
+              "3",
+              "[@thanpolas](https://github.com/thanpolas)/[**nodeON-helpers**](https://github.com/thanpolas/nodeON-helpers)",
+              "A collection of helper funcs",
+              ""
+            ],
+            [
+              "3",
+              "[@stream7](https://github.com/stream7)/[**backbone-logger**](https://github.com/stream7/backbone-logger)",
+              "Basic logging for backbone apps",
+              ""
+            ],
+            [
+              "2",
+              "[@pontikis](https://github.com/pontikis)/[**jquery_plugin_patter…**](https://github.com/pontikis/jquery_plugin_patterns)",
+              "jquery plugin design patterns",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**load-tasks-gulp**](https://github.com/varemenos/load-tasks-gulp)",
+              "load gulp tasks automatically, no need to require every single one of them",
+              "[:arrow_upper_right:](https://www.npmjs.com/package/load-tasks-gulp)"
+            ],
+            [
+              "2",
+              "[@georapbox](https://github.com/georapbox)/[**cPie**](https://github.com/georapbox/cPie)",
+              "KineticJS Pie Chart plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@past](https://github.com/past)/[**jetstatus**](https://github.com/past/jetstatus)",
+              "A Jetpack port of the FireStatus extension",
+              "[:arrow_upper_right:](http://past.github.com/jetstatus/)"
+            ],
+            [
+              "2",
+              "[@Maximilianos](https://github.com/Maximilianos)/[**temperature**](https://github.com/Maximilianos/temperature)",
+              "A collection of simple temperature operations",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**atom-git-travel**](https://github.com/varemenos/atom-git-travel)",
+              "An Atom package that helps you travel through branches, tags and commits",
+              "[:arrow_upper_right:](https://atom.io/packages/git-travel)"
+            ],
+            [
+              "2",
+              "[@stelabouras](https://github.com/stelabouras)/[**Game-of-Death**](https://github.com/stelabouras/Game-of-Death)",
+              "Game of Death made in canvas",
+              "[:arrow_upper_right:](http://dl.dropbox.com/u/20485/god/index.html)"
+            ],
+            [
+              "2",
+              "[@tsironis](https://github.com/tsironis)/[**playah**](https://github.com/tsironis/playah)",
+              "An interactive HTML5 player with full playlist functions",
+              "[:arrow_upper_right:](http://dtsironis.net/playah/)"
+            ],
+            [
+              "2",
+              "[@tsironis](https://github.com/tsironis)/[**Calculator**](https://github.com/tsironis/Calculator)",
+              "Pure CSS3 calculator with UI",
+              "[:arrow_upper_right:](http://tsironis.isnap.gr/calculator)"
+            ],
+            [
+              "2",
+              "[@sirodoht](https://github.com/sirodoht)/[**angular-gemstore**](https://github.com/sirodoht/angular-gemstore)",
+              "Sample web app in angular from codeschool.com",
+              "[:arrow_upper_right:](https://sirodoht.github.io/angular-gemstore/)"
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**node-asset-pipeline**](https://github.com/thanpolas/node-asset-pipeline)",
+              "Asset management for node",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**unique_path**](https://github.com/varemenos/unique_path)",
+              "Get unique CSS selectors (path) of DOM elements",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**ffmpeg-binary-linux-…**](https://github.com/thanpolas/ffmpeg-binary-linux-64bit)",
+              "Provides staticly compiled binaries for linux environments.",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**groupby-json**](https://github.com/varemenos/groupby-json)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**nodeON-error**](https://github.com/thanpolas/nodeON-error)",
+              "Error Objects for everybody!",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**codemagic-react**](https://github.com/varemenos/codemagic-react)",
+              "A W.I.P. React implementation of http://codemagic.gr",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**grunt-services**](https://github.com/thanpolas/grunt-services)",
+              "Start and Stop database services",
+              ""
+            ],
+            [
+              "2",
+              "[@varemenos](https://github.com/varemenos)/[**higher.js**](https://github.com/varemenos/higher.js)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**idify**](https://github.com/thanpolas/idify)",
+              "Get a guaranteed unique Id using Redis SET",
+              ""
+            ],
+            [
+              "2",
+              "[@Maximilianos](https://github.com/Maximilianos)/[**eqheights**](https://github.com/Maximilianos/eqheights)",
+              "Give all elements in a group of elements at least the height of the tallest element of the group",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**httplink**](https://github.com/thanpolas/httplink)",
+              "Link HTTP Header constructor for your Restfull APIs",
+              ""
+            ],
+            [
+              "2",
+              "[@ppapadeas](https://github.com/ppapadeas)/[**fxos-qreader**](https://github.com/ppapadeas/fxos-qreader)",
+              "QR Reader for Firefox OS",
+              ""
+            ],
+            [
+              "2",
+              "[@OrfeasZ](https://github.com/OrfeasZ)/[**aiw2**](https://github.com/OrfeasZ/aiw2)",
+              "The aIW2 phpBB template used by the alterIWnet project.",
+              ""
+            ],
+            [
+              "2",
+              "[@thanpolas](https://github.com/thanpolas)/[**kansas-express**](https://github.com/thanpolas/kansas-express)",
+              "Express middleware for Kansas",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
