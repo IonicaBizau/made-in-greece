@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -743,6 +744,195 @@
               "2",
               "[@thanpolas](https://github.com/thanpolas)/[**kansas-express**](https://github.com/thanpolas/kansas-express)",
               "Express middleware for Kansas",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "526",
+              "[@pavlospt](https://github.com/pavlospt)/[**RoundedLetterView**](https://github.com/pavlospt/RoundedLetterView)",
+              "RoundedLetterView like the one in Android 5.0 Contacts app",
+              ""
+            ],
+            [
+              "422",
+              "[@pavlospt](https://github.com/pavlospt)/[**CircleView**](https://github.com/pavlospt/CircleView)",
+              "A Circle View containing Title and Subtitle",
+              ""
+            ],
+            [
+              "256",
+              "[@pavlospt](https://github.com/pavlospt)/[**RxFile**](https://github.com/pavlospt/RxFile)",
+              "Rx methods to get a File and Image or Video thumbnails from a Document Provider on Android (Drive, Dropbox etc)",
+              ""
+            ],
+            [
+              "165",
+              "[@dspinellis](https://github.com/dspinellis)/[**UMLGraph**](https://github.com/dspinellis/UMLGraph)",
+              "Declarative specification and drawing of UML diagrams",
+              "[:arrow_upper_right:](http://www.umlgraph.org)"
+            ],
+            [
+              "84",
+              "[@pavlospt](https://github.com/pavlospt)/[**FoodSearch**](https://github.com/pavlospt/FoodSearch)",
+              "Showcase project of MVP+Dagger+RxJava+StorIO",
+              "[:arrow_upper_right:](http://pavlospt.com)"
+            ],
+            [
+              "51",
+              "[@pavlospt](https://github.com/pavlospt)/[**RxIAPv3**](https://github.com/pavlospt/RxIAPv3)",
+              "Android In-App Billing Library which provides several Rx Methods for Purchasing, Consuming and Listing Products",
+              ""
+            ],
+            [
+              "37",
+              "[@Spasi](https://github.com/Spasi)/[**LWJGL-FX**](https://github.com/Spasi/LWJGL-FX)",
+              "LWJGL-JavaFX integration demo",
+              ""
+            ],
+            [
+              "36",
+              "[@pavlospt](https://github.com/pavlospt)/[**ActivityPassProtecti…**](https://github.com/pavlospt/ActivityPassProtection)",
+              "A library that password protects Activities",
+              ""
+            ],
+            [
+              "25",
+              "[@dspinellis](https://github.com/dspinellis)/[**ckjm**](https://github.com/dspinellis/ckjm)",
+              "Chidamber and Kemerer Java Metrics",
+              "[:arrow_upper_right:](http://www.spinellis.gr/sw/ckjm/)"
+            ],
+            [
+              "18",
+              "[@MasterEx](https://github.com/MasterEx)/[**BeatKeeper**](https://github.com/MasterEx/BeatKeeper)",
+              "Just another android metronome!",
+              ""
+            ],
+            [
+              "14",
+              "[@sptz45](https://github.com/sptz45)/[**circuit-breaker**](https://github.com/sptz45/circuit-breaker)",
+              "An implementation of the Circuit Breaker stability design pattern using AOP",
+              "[:arrow_upper_right:](http://www.tzavellas.com/projects/circuit-breaker)"
+            ],
+            [
+              "9",
+              "[@dspinellis](https://github.com/dspinellis)/[**greek-vat-data**](https://github.com/dspinellis/greek-vat-data)",
+              "Retrieve the registration data associated with a Greek VAT number",
+              ""
+            ],
+            [
+              "8",
+              "[@MasterEx](https://github.com/MasterEx)/[**jupar**](https://github.com/MasterEx/jupar)",
+              "Java desktop application updates made easy!",
+              "[:arrow_upper_right:](http://masterex.github.com/archive/2011/12/25/jupar.html)"
+            ],
+            [
+              "8",
+              "[@iocanel](https://github.com/iocanel)/[**blog**](https://github.com/iocanel/blog)",
+              "iocanel blog code samples",
+              "[:arrow_upper_right:](iocanel.blogspot.com)"
+            ],
+            [
+              "7",
+              "[@dspinellis](https://github.com/dspinellis)/[**effective-debugging**](https://github.com/dspinellis/effective-debugging)",
+              "Code examples used in the book Effective Debugging (Addison-Wesley, 2016)",
+              "[:arrow_upper_right:](http://www.spinellis.gr/debugging/)"
+            ],
+            [
+              "4",
+              "[@cyberpython](https://github.com/cyberpython)/[**lingua**](https://github.com/cyberpython/lingua)",
+              "A Gtk3 IDE for the ΓΛΩΣΣΑ programming language",
+              "[:arrow_upper_right:](http://cyberpython.github.com/lingua/)"
+            ],
+            [
+              "4",
+              "[@cyberpython](https://github.com/cyberpython)/[**JAwesomeChart**](https://github.com/cyberpython/JAwesomeChart)",
+              "Simple chart rendering library for Java",
+              "[:arrow_upper_right:](http://cyberpython.github.com/JAwesomeChart/)"
+            ],
+            [
+              "3",
+              "[@cyberpython](https://github.com/cyberpython)/[**glossa-interpreter**](https://github.com/cyberpython/glossa-interpreter)",
+              "A simple interpreter for the ‘ΓΛΩΣΣΑ’ programming language.",
+              ""
+            ],
+            [
+              "3",
+              "[@cyberpython](https://github.com/cyberpython)/[**MiniJavaEditor**](https://github.com/cyberpython/MiniJavaEditor)",
+              "A Java/Swing source code editor that can easily integrate with a MiniJava compiler implementation in Java.",
+              "[:arrow_upper_right:](http://gmigdos.wordpress.com/2010/04/01/minijed-minijava-ide/)"
+            ],
+            [
+              "3",
+              "[@pavlospt](https://github.com/pavlospt)/[**Random_Schedule_Gene…**](https://github.com/pavlospt/Random_Schedule_Generator)",
+              "Generate random Schedule for Schools or Universities, based on your personal data",
+              ""
+            ],
+            [
+              "3",
+              "[@dspinellis](https://github.com/dspinellis)/[**Secrets-for-Java-SE**](https://github.com/dspinellis/Secrets-for-Java-SE)",
+              "Decode Secrets for Android files on a Java SE platform",
+              "[:arrow_upper_right:](http://www.spinellis.gr/sw/secrets-java-se/)"
+            ],
+            [
+              "2",
+              "[@javapapo](https://github.com/javapapo)/[**crawly**](https://github.com/javapapo/crawly)",
+              "Small cmd line util written in Java 8, based on JSoup/Rome Fetcher and other libs to crawl  news sites and produce a small size html output of a certain number or articles.",
+              ""
+            ],
+            [
+              "2",
+              "[@MasterEx](https://github.com/MasterEx)/[**djchord**](https://github.com/MasterEx/djchord)",
+              "a distributed chord filesystem written in java",
+              ""
+            ],
+            [
+              "2",
+              "[@cyberpython](https://github.com/cyberpython)/[**Reversi**](https://github.com/cyberpython/Reversi)",
+              "A java implementation of the popular game",
+              ""
+            ],
+            [
+              "2",
+              "[@cyberpython](https://github.com/cyberpython)/[**Slang**](https://github.com/cyberpython/Slang)",
+              "An Integrated Development Environment for the ΓΛΩΣΣΑ programming language",
+              ""
+            ],
+            [
+              "2",
+              "[@cyberpython](https://github.com/cyberpython)/[**java-gnome**](https://github.com/cyberpython/java-gnome)",
+              "A fork of the java-gnome bindings with minor changes",
+              ""
+            ],
+            [
+              "2",
+              "[@cyberpython](https://github.com/cyberpython)/[**BMach**](https://github.com/cyberpython/BMach)",
+              "A Brookshear Machine implementation in Java",
+              "[:arrow_upper_right:](http://cyberpython.github.com/BMach)"
+            ],
+            [
+              "2",
+              "[@kyrcha](https://github.com/kyrcha)/[**poker**](https://github.com/kyrcha/poker)",
+              "Poker calculator in Java (hand strength, hand potential, Chen's formula)",
+              "[:arrow_upper_right:](http://kyrcha.info)"
+            ],
+            [
+              "2",
+              "[@cyberpython](https://github.com/cyberpython)/[**ComputationalGeometr…**](https://github.com/cyberpython/ComputationalGeometry)",
+              "Java implementations of Graham's Scan, Jarvis' March and the Bentley-Ottmann line-segments intersection algorithm",
               ""
             ]
           ]
