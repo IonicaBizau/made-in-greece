@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -1369,6 +1370,195 @@
               "2",
               "[@chefarov](https://github.com/chefarov)/[**simple_twitter**](https://github.com/chefarov/simple_twitter)",
               "A simple server client app using posix sockets. Clients speaks, twithear listens from twitsay",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "531",
+              "[@XhmikosR](https://github.com/XhmikosR)/[**notepad2-mod**](https://github.com/XhmikosR/notepad2-mod)",
+              "LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting",
+              "[:arrow_upper_right:](https://xhmikosr.github.io/notepad2-mod/)"
+            ],
+            [
+              "26",
+              "[@gliaskos](https://github.com/gliaskos)/[**freebsd-chromium**](https://github.com/gliaskos/freebsd-chromium)",
+              "Chromium port for FreeBSD",
+              ""
+            ],
+            [
+              "17",
+              "[@Serasidis](https://github.com/Serasidis)/[**Arduino-WebRadio-pla…**](https://github.com/Serasidis/Arduino-WebRadio-player)",
+              "Arduino webradio player that can plays WebRadio stations up to 64-kbps",
+              ""
+            ],
+            [
+              "8",
+              "[@kostoulhs](https://github.com/kostoulhs)/[**android_device_samsu…**](https://github.com/kostoulhs/android_device_samsung_loganreltexx)",
+              "Device configuration for Samsung Galaxy ACE 3 LTE (GT-S7275)",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/android/development/rom-unofficial-cyanogenmod-12-galaxy-t2945115)"
+            ],
+            [
+              "6",
+              "[@XhmikosR](https://github.com/XhmikosR)/[**perfmonbar**](https://github.com/XhmikosR/perfmonbar)",
+              "Displays performance counters on the Windows Taskbar",
+              "[:arrow_upper_right:](http://xhmikosr.github.io/perfmonbar/)"
+            ],
+            [
+              "6",
+              "[@VitSalis](https://github.com/VitSalis)/[**SPOJ**](https://github.com/VitSalis/SPOJ)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@okinp](https://github.com/okinp)/[**synapCity**](https://github.com/okinp/synapCity)",
+              "a visualization project using cinder",
+              ""
+            ],
+            [
+              "5",
+              "[@igoumeninja](https://github.com/igoumeninja)/[**livePerformance**](https://github.com/igoumeninja/livePerformance)",
+              "App for Live Visuals ",
+              ""
+            ],
+            [
+              "5",
+              "[@mariosv](https://github.com/mariosv)/[**mtr**](https://github.com/mariosv/mtr)",
+              "A Tetris implementation in C++11. Project will be renamed when it will start doing something useful",
+              ""
+            ],
+            [
+              "5",
+              "[@etsardou](https://github.com/etsardou)/[**crsm-slam-ros-pkg**](https://github.com/etsardou/crsm-slam-ros-pkg)",
+              "ROS package for the CRSM SLAM (Critical Rays Scan Match Simultaneous Localization And Mapping)",
+              ""
+            ],
+            [
+              "4",
+              "[@gkiagia](https://github.com/gkiagia)/[**qtwine**](https://github.com/gkiagia/qtwine)",
+              "A full-featured Qt/KDE interface for wine.",
+              "[:arrow_upper_right:](http://qtwine.sourceforge.net)"
+            ],
+            [
+              "4",
+              "[@okinp](https://github.com/okinp)/[**itouchyoutouch**](https://github.com/okinp/itouchyoutouch)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@okinp](https://github.com/okinp)/[**clBoids**](https://github.com/okinp/clBoids)",
+              "Flocking implemented in openCL",
+              ""
+            ],
+            [
+              "3",
+              "[@okinp](https://github.com/okinp)/[**SpatialMediaFinal**](https://github.com/okinp/SpatialMediaFinal)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@XhmikosR](https://github.com/XhmikosR)/[**winpenguins**](https://github.com/XhmikosR/winpenguins)",
+              "WinPenguins is a Win32 rewrite of the X-Windows application XPenguins",
+              ""
+            ],
+            [
+              "3",
+              "[@XhmikosR](https://github.com/XhmikosR)/[**huffyuv**](https://github.com/XhmikosR/huffyuv)",
+              "Huffyuv is a very fast, lossless Win32 video codec. This is a fork of v2.1.1 with CCESP Patch v0.2.5.",
+              ""
+            ],
+            [
+              "3",
+              "[@Serasidis](https://github.com/Serasidis)/[**STM32duino**](https://github.com/Serasidis/STM32duino)",
+              "Ported Arduino libraries ready for STM32duino project.",
+              ""
+            ],
+            [
+              "3",
+              "[@igoumeninja](https://github.com/igoumeninja)/[**UnaCiudadSonada**](https://github.com/igoumeninja/UnaCiudadSonada)",
+              "openFrameworks code of UnaCiudadSonada project",
+              "[:arrow_upper_right:](http://igoumeninja.org/en/pmwiki.php/Projects-GranCielo)"
+            ],
+            [
+              "3",
+              "[@ragecryx](https://github.com/ragecryx)/[**PCG-BSPDungeonGen**](https://github.com/ragecryx/PCG-BSPDungeonGen)",
+              "Rogue-like dungeon generation library using BSP tree.",
+              ""
+            ],
+            [
+              "3",
+              "[@Serasidis](https://github.com/Serasidis)/[**Ethernet_STM**](https://github.com/Serasidis/Ethernet_STM)",
+              "WIZnet W5500, W5200, W5100 ethernet library for 8-bit, 32-bit Arduino and STM32F1 (STM32F103) micro-controllers",
+              ""
+            ],
+            [
+              "2",
+              "[@igoumeninja](https://github.com/igoumeninja)/[**cutMotion**](https://github.com/igoumeninja/cutMotion)",
+              "interactive real time stop motion",
+              ""
+            ],
+            [
+              "2",
+              "[@okinp](https://github.com/okinp)/[**branching3D**](https://github.com/okinp/branching3D)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@okinp](https://github.com/okinp)/[**nJetProject**](https://github.com/okinp/nJetProject)",
+              "openframeworks nJet",
+              ""
+            ],
+            [
+              "2",
+              "[@VitSalis](https://github.com/VitSalis)/[**Algorithms**](https://github.com/VitSalis/Algorithms)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@XhmikosR](https://github.com/XhmikosR)/[**psvince**](https://github.com/XhmikosR/psvince)",
+              "PSVince is a DLL to detect if a module is loaded in memory for Inno Setup",
+              ""
+            ],
+            [
+              "2",
+              "[@VitSalis](https://github.com/VitSalis)/[**project-euler**](https://github.com/VitSalis/project-euler)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@iani](https://github.com/iani)/[**SC_SourceCode_Study**](https://github.com/iani/SC_SourceCode_Study)",
+              "Source code of SuperCollider, with study notes",
+              ""
+            ],
+            [
+              "2",
+              "[@terietor](https://github.com/terietor)/[**presenations**](https://github.com/terietor/presenations)",
+              "My presentations about FOSS",
+              ""
+            ],
+            [
+              "2",
+              "[@okinp](https://github.com/okinp)/[**3dsavFinal**](https://github.com/okinp/3dsavFinal)",
+              "Final project for the 3DSAV class",
               ""
             ]
           ]
