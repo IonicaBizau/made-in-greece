@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -934,6 +935,177 @@
               "[@cyberpython](https://github.com/cyberpython)/[**ComputationalGeometr…**](https://github.com/cyberpython/ComputationalGeometry)",
               "Java implementations of Graham's Scan, Jarvis' March and the Bentley-Ottmann line-segments intersection algorithm",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "72",
+              "[@expand](https://github.com/expand)/[**eXpand**](https://github.com/expand/eXpand)",
+              "This is a development fork so there may be times that the source code cannot even compile. But nightly builds are available for this fork that can provide the latest compilable version at our downloads page (see url bellow)",
+              "[:arrow_upper_right:](http://www.expandframework.com/downloads/download.html)"
+            ],
+            [
+              "39",
+              "[@moodmosaic](https://github.com/moodmosaic)/[**Fare**](https://github.com/moodmosaic/Fare)",
+              "Finite Automata and Regular Expressions - .NET port of dk.brics.automaton.",
+              "[:arrow_upper_right:](http://www.brics.dk/automaton/)"
+            ],
+            [
+              "37",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**AngryBirdsClone**](https://github.com/dgkanatsios/AngryBirdsClone)",
+              "Angry Birds style game in Unity 3D",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2014/07/28/angry-birds-clone-in-unity-3d-source-code-included-3/)"
+            ],
+            [
+              "31",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**TowerDefense**](https://github.com/dgkanatsios/TowerDefense)",
+              "A Tower Defense clone in Unity3D",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2014/09/04/a-tower-defense-game-in-unity-part-1-3/)"
+            ],
+            [
+              "30",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**MatchThreeGame**](https://github.com/dgkanatsios/MatchThreeGame)",
+              "A match-3 game in Unity (like Candy Crush and Bejeweled)",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2015/02/25/building-a-match-3-game-in-unity-3/)"
+            ],
+            [
+              "19",
+              "[@biboudis](https://github.com/biboudis)/[**clashofthelambdas**](https://github.com/biboudis/clashofthelambdas)",
+              "Microbenchmarking Stream APIs of Java 8, Scala, C#, F#.",
+              "[:arrow_upper_right:](http://biboudis.github.io/clashofthelambdas/)"
+            ],
+            [
+              "17",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**FlappyBirdClone**](https://github.com/dgkanatsios/FlappyBirdClone)",
+              "Flappy Bird style game in Unity 3D",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2014/07/02/a-flappy-bird-clone-in-unity-source-code-included-3/)"
+            ],
+            [
+              "11",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**UniversalHelpers**](https://github.com/dgkanatsios/UniversalHelpers)",
+              "Helpers for Universal apps",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2015/12/11/universal-helpers-library-for-the-universal-windows-platform/)"
+            ],
+            [
+              "11",
+              "[@biboudis](https://github.com/biboudis)/[**LambdaMicrobenchmark…**](https://github.com/biboudis/LambdaMicrobenchmarking)",
+              "A library to microbenchmark lambdas in C# and F# that runs on both Windows (clr) and Linux (mono).",
+              ""
+            ],
+            [
+              "10",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**BrickGame**](https://github.com/dgkanatsios/BrickGame)",
+              "BrickGame (like Arkanoid) in Unity 3D",
+              ""
+            ],
+            [
+              "7",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**PuzzleGameUnity**](https://github.com/dgkanatsios/PuzzleGameUnity)",
+              "Simple Puzzle Game in Unity 3D",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2014/07/01/simple-puzzle-game-in-unity-source-code-provided-3/)"
+            ],
+            [
+              "5",
+              "[@sotirisf](https://github.com/sotirisf)/[**Umbraco-AutoNode**](https://github.com/sotirisf/Umbraco-AutoNode)",
+              "This is a simple plugin that automatically creates new child nodes in the Umbraco back end upon publishing a node, based on a set of user-defined rules.",
+              ""
+            ],
+            [
+              "5",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**InfiniteRunner3D**](https://github.com/dgkanatsios/InfiniteRunner3D)",
+              "Creating an infinite 3D runner game in Unity ",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2016/03/07/creating-an-infinite-3d-runner-game-in-unity-like-temple-run-subway-surfers-part-1/)"
+            ],
+            [
+              "4",
+              "[@sotirisf](https://github.com/sotirisf)/[**Umbraco-OmitSegments…**](https://github.com/sotirisf/Umbraco-OmitSegmentsUrlProvider)",
+              "Omits URL segments from a node's URL, based on rules specified in web.config. Works with document types, e.g. omits the URL segment for doctype A if found in the path of doctype B.",
+              ""
+            ],
+            [
+              "4",
+              "[@dpan](https://github.com/dpan)/[**CachingWrapper**](https://github.com/dpan/CachingWrapper)",
+              "A simple wrapper class that provides LRU caching to a simple data source such as a db query or a web service.",
+              ""
+            ],
+            [
+              "4",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**AzureServicesForUnit…**](https://github.com/dgkanatsios/AzureServicesForUnity)",
+              "Accessing Azure App Service from Unity",
+              "[:arrow_upper_right:](https://dgkanatsios.com/2016/04/14/use-azure-services-from-unity/)"
+            ],
+            [
+              "4",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**BubbleBreaker**](https://github.com/dgkanatsios/BubbleBreaker)",
+              "Bubble Breaker clone in Unity 3D",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2014/06/29/bubble-breaker-tutorial-in-unity-source-code-included-3/)"
+            ],
+            [
+              "4",
+              "[@sotirisf](https://github.com/sotirisf)/[**Umbraco-VirtualNodes**](https://github.com/sotirisf/Umbraco-VirtualNodes)",
+              "Lets you specify one or more document types that will be excluded from Umbraco-generated URLs, thus making them \"invisible\". Those can be used as grouping nodes and they will not appear as part of the URL.",
+              ""
+            ],
+            [
+              "4",
+              "[@leftos](https://github.com/leftos)/[**nba-2k13-roster-edit…**](https://github.com/leftos/nba-2k13-roster-editor)",
+              "An NBA 2K13's Rosters and Save files editor.",
+              "[:arrow_upper_right:](http://forums.nba-live.com/viewtopic.php?f=149&t=88237)"
+            ],
+            [
+              "3",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**DotNetSamples**](https://github.com/dgkanatsios/DotNetSamples)",
+              "various .NET samples in C#",
+              ""
+            ],
+            [
+              "2",
+              "[@sotirisf](https://github.com/sotirisf)/[**Umbraco-NodeRestrict**](https://github.com/sotirisf/Umbraco-NodeRestrict)",
+              "Restricts the number of allowed published child nodes either via rules defined in a config file (parent doctype - child doctype) or via a special property in a single node (limiting the number of children of any doctype).",
+              ""
+            ],
+            [
+              "2",
+              "[@biboudis](https://github.com/biboudis)/[**NScanner**](https://github.com/biboudis/NScanner)",
+              "NScanner is a simple .NET desktop application for network scanning",
+              ""
+            ],
+            [
+              "2",
+              "[@GMathioud](https://github.com/GMathioud)/[**MyCraft**](https://github.com/GMathioud/MyCraft)",
+              "A custom version of 800Craft with more features.",
+              "[:arrow_upper_right:](MyCraft-Public.tk)"
+            ],
+            [
+              "2",
+              "[@JimiC](https://github.com/JimiC)/[**LogitechLcd.Net**](https://github.com/JimiC/LogitechLcd.Net)",
+              "A .NET wrapper of the Logitech-G15-SDK",
+              ""
+            ],
+            [
+              "2",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**2048**](https://github.com/dgkanatsios/2048)",
+              "Building the 2048 game in Unity in C# and Visual Studio",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2016/01/23/building-the-2048-game-in-unity-via-c-and-visual-studio/)"
+            ],
+            [
+              "2",
+              "[@dgkanatsios](https://github.com/dgkanatsios)/[**Raspberry**](https://github.com/dgkanatsios/Raspberry)",
+              "Includes various samples for Raspberry Pi running Windows 10 IoT Core, Azure IoT Hub and more!",
+              "[:arrow_upper_right:](http://dgkanatsios.com/2015/12/25/raspberry-weather-shield-azure-iot-hub-streaming-analytics-and-more/)"
             ]
           ]
         }
