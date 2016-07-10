@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -1651,6 +1652,39 @@
               "2",
               "[@npat-efault](https://github.com/npat-efault)/[**musings**](https://github.com/npat-efault/musings)",
               "Assorted musings",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@acharal](https://github.com/acharal)/[**hopes**](https://github.com/acharal/hopes)",
+              "Higher Order Prolog with Extensional Semantics",
+              ""
+            ],
+            [
+              "4",
+              "[@iliastsi](https://github.com/iliastsi)/[**gac**](https://github.com/iliastsi/gac)",
+              "A compiler for Alan language written in Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@acharal](https://github.com/acharal)/[**wam**](https://github.com/acharal/wam)",
+              "A simple compiler from Prolog to WAM (Warren Abstract Machine) and a runtime for WAM.",
               ""
             ]
           ]
