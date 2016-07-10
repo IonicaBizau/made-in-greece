@@ -63,7 +63,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -2683,6 +2684,39 @@
               "2",
               "[@damphyr](https://github.com/damphyr)/[**gaudi**](https://github.com/damphyr/gaudi)",
               "A collection of helpers and an opinionated implementation of a C/C++ build system on top of rake",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "14",
+              "[@loverdos](https://github.com/loverdos)/[**scalapipes**](https://github.com/loverdos/scalapipes)",
+              "Scala with forward pipe operator, as in F# and OCaml.",
+              ""
+            ],
+            [
+              "3",
+              "[@loverdos](https://github.com/loverdos)/[**aquarium**](https://github.com/loverdos/aquarium)",
+              "Cloud-scale resource charging",
+              ""
+            ],
+            [
+              "3",
+              "[@loverdos](https://github.com/loverdos)/[**streamresource**](https://github.com/loverdos/streamresource)",
+              "Convenient abstractions related to the getResource() pattern",
               ""
             ]
           ]
