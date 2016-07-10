@@ -62,7 +62,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -2481,6 +2482,207 @@
               "2",
               "[@IronistM](https://github.com/IronistM)/[**R_Google_Analytics_D…**](https://github.com/IronistM/R_Google_Analytics_Doc)",
               "A small attempt to create a fast documentation of a Google Analytics deployment using R",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "32",
+              "[@eavgerinos](https://github.com/eavgerinos)/[**popme**](https://github.com/eavgerinos/popme)",
+              "Open sites in browser from the terminal.",
+              ""
+            ],
+            [
+              "23",
+              "[@agorf](https://github.com/agorf)/[**feed2email**](https://github.com/agorf/feed2email)",
+              "RSS/Atom feed updates sent as email",
+              ""
+            ],
+            [
+              "16",
+              "[@ekarak](https://github.com/ekarak)/[**ansible**](https://github.com/ekarak/ansible)",
+              "a home automation scripting framework for Ruby",
+              ""
+            ],
+            [
+              "9",
+              "[@chief](https://github.com/chief)/[**greek_string_utils**](https://github.com/chief/greek_string_utils)",
+              "Simple library to correct upcase in greek",
+              ""
+            ],
+            [
+              "8",
+              "[@mikezaby](https://github.com/mikezaby)/[**lamepress_legacy**](https://github.com/mikezaby/lamepress_legacy)",
+              "Lamepress is a Content Managment System for issuing magazines/newspapers.",
+              ""
+            ],
+            [
+              "6",
+              "[@ekarak](https://github.com/ekarak)/[**eibd_ruby**](https://github.com/ekarak/eibd_ruby)",
+              "Ruby client binding for eibd, the open-source EIB/KNX daemon",
+              ""
+            ],
+            [
+              "6",
+              "[@savvas](https://github.com/savvas)/[**cheapcoffee**](https://github.com/savvas/cheapcoffee)",
+              "It's self explanatory.",
+              ""
+            ],
+            [
+              "5",
+              "[@ctrochalakis](https://github.com/ctrochalakis)/[**systemd-daemon**](https://github.com/ctrochalakis/systemd-daemon)",
+              "Systemd's sd-daemon ruby bindings",
+              ""
+            ],
+            [
+              "5",
+              "[@ctrochalakis](https://github.com/ctrochalakis)/[**googleapi_manager**](https://github.com/ctrochalakis/googleapi_manager)",
+              "Rails 3 helper for managing google api keys.",
+              "[:arrow_upper_right:](http://github.com/ctrochalakis/googleapi_manager)"
+            ],
+            [
+              "5",
+              "[@nikosd](https://github.com/nikosd)/[**teachmate**](https://github.com/nikosd/teachmate)",
+              "sources of TeachMate.org service",
+              "[:arrow_upper_right:](http://teachmate.org)"
+            ],
+            [
+              "5",
+              "[@vtypal](https://github.com/vtypal)/[**cabyrant**](https://github.com/vtypal/cabyrant)",
+              "cabyrant adds a few methods to the ruby binding of TokyoCabinet and TokyoTyrant targeting to interact easier and faster with Cabinet and Tyrant databases",
+              "[:arrow_upper_right:](http://www.rubyst.es/wiki/cabyrant)"
+            ],
+            [
+              "5",
+              "[@nkokkos](https://github.com/nkokkos)/[**vws**](https://github.com/nkokkos/vws)",
+              "A ruby gem to interact with Vuforia Web Services API",
+              ""
+            ],
+            [
+              "4",
+              "[@chief](https://github.com/chief)/[**google_search_criter…**](https://github.com/chief/google_search_criterion)",
+              "A toy to compare words against Google search results ",
+              ""
+            ],
+            [
+              "4",
+              "[@chief](https://github.com/chief)/[**acts_as_previous_nex…**](https://github.com/chief/acts_as_previous_next)",
+              "A gem allowing an active_record model to have previous, next based on single column",
+              ""
+            ],
+            [
+              "4",
+              "[@ctrochalakis](https://github.com/ctrochalakis)/[**capistrano-gity**](https://github.com/ctrochalakis/capistrano-gity)",
+              "Git helpers for capistrano deployments",
+              "[:arrow_upper_right:](http://github.com/ctrochalakis/capistrano-gity)"
+            ],
+            [
+              "3",
+              "[@agorf](https://github.com/agorf)/[**gcstats**](https://github.com/agorf/gcstats)",
+              "Simple and clean statistics of your Geocaching activity",
+              ""
+            ],
+            [
+              "3",
+              "[@chief](https://github.com/chief)/[**acts_as_defaultable**](https://github.com/chief/acts_as_defaultable)",
+              "A gem allowing an active_record model to be default(unique) based on a specified column",
+              ""
+            ],
+            [
+              "3",
+              "[@eirc](https://github.com/eirc)/[**capistrano-transfer_…**](https://github.com/eirc/capistrano-transfer_progress)",
+              "Progress bars for capistrano transfers",
+              ""
+            ],
+            [
+              "3",
+              "[@nkokkos](https://github.com/nkokkos)/[**regioncodes**](https://github.com/nkokkos/regioncodes)",
+              "A Ruby on Rails gem to include country specific region codes as assembled at http://www.statistics.gr/portal/page/por… with class methods for data selection.",
+              ""
+            ],
+            [
+              "3",
+              "[@nikosd](https://github.com/nikosd)/[**tf_rails_i18n_test**](https://github.com/nikosd/tf_rails_i18n_test)",
+              "Transifex Rails i18n project test",
+              ""
+            ],
+            [
+              "3",
+              "[@petros](https://github.com/petros)/[**pabarcode**](https://github.com/petros/pabarcode)",
+              "A Ruby gem that provides helper classes for various barcode types",
+              ""
+            ],
+            [
+              "3",
+              "[@chief](https://github.com/chief)/[**tools_for_locales**](https://github.com/chief/tools_for_locales)",
+              "A collection of tools for handling locales in a rails project",
+              ""
+            ],
+            [
+              "3",
+              "[@eirc](https://github.com/eirc)/[**spells**](https://github.com/eirc/spells)",
+              "Spells is a library for parsing the text on Magic the Gathering cards",
+              ""
+            ],
+            [
+              "2",
+              "[@eirc](https://github.com/eirc)/[**nefos**](https://github.com/eirc/nefos)",
+              "My automated cloud",
+              ""
+            ],
+            [
+              "2",
+              "[@nkokkos](https://github.com/nkokkos)/[**rails-i18n_demo_el**](https://github.com/nkokkos/rails-i18n_demo_el)",
+              "Adding multilanguage functionality to the classic rails blog application",
+              ""
+            ],
+            [
+              "2",
+              "[@nkokkos](https://github.com/nkokkos)/[**el-typo**](https://github.com/nkokkos/el-typo)",
+              "Translation of Typo web app in greek language",
+              "[:arrow_upper_right:](http://www.rubyst.es/wiki/el-typo)"
+            ],
+            [
+              "2",
+              "[@nkokkos](https://github.com/nkokkos)/[**demo_app_for_regionc…**](https://github.com/nkokkos/demo_app_for_regioncodes_plugin)",
+              "Ruby on Rails application to test regioncodes plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@agorf](https://github.com/agorf)/[**trafficjam**](https://github.com/agorf/trafficjam)",
+              "Get an email for unusual traffic in your commute",
+              ""
+            ],
+            [
+              "2",
+              "[@vtypal](https://github.com/vtypal)/[**utils**](https://github.com/vtypal/utils)",
+              "small apps - utilities",
+              ""
+            ],
+            [
+              "2",
+              "[@xarisd](https://github.com/xarisd)/[**descraff**](https://github.com/xarisd/descraff)",
+              "A Ruby gem for describing your model's scaffolding",
+              ""
+            ],
+            [
+              "2",
+              "[@damphyr](https://github.com/damphyr)/[**gaudi**](https://github.com/damphyr/gaudi)",
+              "A collection of helpers and an opinionated implementation of a C/C++ build system on top of rake",
               ""
             ]
           ]
