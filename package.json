@@ -65,7 +65,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -2788,6 +2789,33 @@
               "[@cerebrux](https://github.com/cerebrux)/[**OSarena-Repo-Downloa…**](https://github.com/cerebrux/OSarena-Repo-Downloader)",
               "This is the app that we use to provide a GUI installer of osarena.net repositrory (apps.osarena.net) ",
               "[:arrow_upper_right:](http://apps.osarena.net)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1806",
+              "[@kasketis](https://github.com/kasketis)/[**netfox**](https://github.com/kasketis/netfox)",
+              "A lightweight, one line setup, iOS / OSX network debugging library!",
+              ""
+            ],
+            [
+              "10",
+              "[@lamprosg](https://github.com/lamprosg)/[**LazyImage**](https://github.com/lamprosg/LazyImage)",
+              "Simple and efficient image lazy loading for iOS written in Swift",
+              ""
             ]
           ]
         }
