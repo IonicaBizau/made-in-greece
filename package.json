@@ -58,7 +58,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -1764,6 +1765,87 @@
               "[@tzikis](https://github.com/tzikis)/[**Hackerspace-Status-N…**](https://github.com/tzikis/Hackerspace-Status-Notifier)",
               "The project has moved to our hackerspace's account. Please visit the link below for the latest source.",
               "[:arrow_upper_right:](https://github.com/P-Space/Hackerspace-Status-Notifier)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "53",
+              "[@anestisb](https://github.com/anestisb)/[**WeBaCoo**](https://github.com/anestisb/WeBaCoo)",
+              "Web Backdoor Cookie Script-Kit",
+              ""
+            ],
+            [
+              "8",
+              "[@Farow](https://github.com/Farow)/[**hexchat-scripts**](https://github.com/Farow/hexchat-scripts)",
+              "Perl scripts for HexChat",
+              ""
+            ],
+            [
+              "7",
+              "[@anestisb](https://github.com/anestisb)/[**SNMP-BCC**](https://github.com/anestisb/SNMP-BCC)",
+              "SNMP Backdoor Communication Channel",
+              "[:arrow_upper_right:](https://bechtsoudis.com)"
+            ],
+            [
+              "6",
+              "[@akarelas](https://github.com/akarelas)/[**KJabberd**](https://github.com/akarelas/KJabberd)",
+              "A Jabber server, written in Modern Perl",
+              ""
+            ],
+            [
+              "4",
+              "[@akarelas](https://github.com/akarelas)/[**ubic-service-hypnoto…**](https://github.com/akarelas/ubic-service-hypnotoad)",
+              "Ubic::Service::Hypnotoad official repository",
+              "[:arrow_upper_right:](https://metacpan.org/pod/Ubic::Service::Hypnotoad)"
+            ],
+            [
+              "3",
+              "[@anestisb](https://github.com/anestisb)/[**iCSFV**](https://github.com/anestisb/iCSFV)",
+              "iOS Application Code Signature File Validator",
+              ""
+            ],
+            [
+              "3",
+              "[@aduitsis](https://github.com/aduitsis)/[**snmp-class**](https://github.com/aduitsis/snmp-class)",
+              "Distributed SNMP collector in Perl using Gearman, Redis, ElasticSearch.",
+              ""
+            ],
+            [
+              "3",
+              "[@aduitsis](https://github.com/aduitsis)/[**IPv6-Address**](https://github.com/aduitsis/IPv6-Address)",
+              "IPv6 Address Manipulation Library (Perl5)",
+              ""
+            ],
+            [
+              "2",
+              "[@aduitsis](https://github.com/aduitsis)/[**IPv6-Static**](https://github.com/aduitsis/IPv6-Static)",
+              "On the fly address assignment of persistent addresses for IPv6 (or IPv4)",
+              ""
+            ],
+            [
+              "2",
+              "[@aduitsis](https://github.com/aduitsis)/[**fritz-box-call-log**](https://github.com/aduitsis/fritz-box-call-log)",
+              "Get the call log from your Fritz!Box",
+              ""
+            ],
+            [
+              "2",
+              "[@akarelas](https://github.com/akarelas)/[**xml-myxml**](https://github.com/akarelas/xml-myxml)",
+              "The official repository of the XML::MyXML Perl module",
+              "[:arrow_upper_right:](https://metacpan.org/module/XML::MyXML)"
             ]
           ]
         }
