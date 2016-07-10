@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -1581,6 +1582,75 @@
               "2",
               "[@SudoPlz](https://github.com/SudoPlz)/[**StarlingHardpageFlip**](https://github.com/SudoPlz/StarlingHardpageFlip)",
               "This is code, that immitates the hard page flip effect on Starling game framework. Got this from NeoGuo, he made the code, I just tried to adjust it on my project. ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "48",
+              "[@npat-efault](https://github.com/npat-efault)/[**poller**](https://github.com/npat-efault/poller)",
+              "An epoll(7)-based file-descriptor multiplexer.",
+              ""
+            ],
+            [
+              "6",
+              "[@npat-efault](https://github.com/npat-efault)/[**mandel**](https://github.com/npat-efault/mandel)",
+              "Serve images of the Mandelbrot set over HTTP",
+              ""
+            ],
+            [
+              "5",
+              "[@anastasop](https://github.com/anastasop)/[**fotogopher**](https://github.com/anastasop/fotogopher)",
+              "A web service for taking snapshots of web sites",
+              ""
+            ],
+            [
+              "5",
+              "[@npat-efault](https://github.com/npat-efault)/[**serial**](https://github.com/npat-efault/serial)",
+              "A Go package for accessing asynchronous serial ports",
+              ""
+            ],
+            [
+              "4",
+              "[@dimdin](https://github.com/dimdin)/[**decimal**](https://github.com/dimdin/decimal)",
+              "go decimal package suitable for financial and monetary calculations",
+              ""
+            ],
+            [
+              "3",
+              "[@npat-efault](https://github.com/npat-efault)/[**godef**](https://github.com/npat-efault/godef)",
+              "Roger Peppe's \"godef\" tool",
+              ""
+            ],
+            [
+              "2",
+              "[@anastasop](https://github.com/anastasop)/[**dodger**](https://github.com/anastasop/dodger)",
+              "Dodger is a visual twitter client written with go, phantom.js and reveal.js",
+              ""
+            ],
+            [
+              "2",
+              "[@npat-efault](https://github.com/npat-efault)/[**gohacks**](https://github.com/npat-efault/gohacks)",
+              "Various Go hacks",
+              ""
+            ],
+            [
+              "2",
+              "[@npat-efault](https://github.com/npat-efault)/[**musings**](https://github.com/npat-efault/musings)",
+              "Assorted musings",
               ""
             ]
           ]
