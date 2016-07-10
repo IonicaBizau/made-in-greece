@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -1127,6 +1128,27 @@
               "5",
               "[@iridakos](https://github.com/iridakos)/[**hangman**](https://github.com/iridakos/hangman)",
               "Implementation of the Hangman application of www.arubystory.com tutorials.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "66",
+              "[@hootlex](https://github.com/hootlex)/[**vuejs-paginator**](https://github.com/hootlex/vuejs-paginator)",
+              "A Vue.js plugin to easily integrate pagination.",
               ""
             ]
           ]
