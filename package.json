@@ -64,7 +64,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2718,6 +2719,75 @@
               "[@loverdos](https://github.com/loverdos)/[**streamresource**](https://github.com/loverdos/streamresource)",
               "Convenient abstractions related to the getResource() pattern",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@archphile](https://github.com/archphile)/[**recipe**](https://github.com/archphile/recipe)",
+              "installation scripts and files needed for Archphile",
+              ""
+            ],
+            [
+              "7",
+              "[@wired](https://github.com/wired)/[**wirelay**](https://github.com/wired/wirelay)",
+              "wired's gentoo overlay :: layman -a wirelay",
+              "[:arrow_upper_right:](http://www.linuxized.com/tag/gentoo/)"
+            ],
+            [
+              "6",
+              "[@wired](https://github.com/wired)/[**kde-overlay**](https://github.com/wired/kde-overlay)",
+              "mirror of Gentoo's kde overlay",
+              "[:arrow_upper_right:](http://git.overlays.gentoo.org/gitweb/?p=proj/kde.git;a=summary)"
+            ],
+            [
+              "5",
+              "[@archphile](https://github.com/archphile)/[**packages**](https://github.com/archphile/packages)",
+              "packages used in Archphile distribution",
+              ""
+            ],
+            [
+              "3",
+              "[@D4RkNiK0l4s](https://github.com/D4RkNiK0l4s)/[**Kali-Linux-Generator**](https://github.com/D4RkNiK0l4s/Kali-Linux-Generator)",
+              "Kali Linux Generator its a script that automates the building process of kali linux images (iso)!!!  Added compability to create Kali linux: jessie,wheezy,sid,squeeze Added Desktops Building Capabilities E17 option  Desktops Building Capabilities : XFCE,KDE,ICEWM,GNOME,MATE,LXDE,E17  option 1 :You can just build a Kali Linux image  with  any of  the  folowing desktop XFCE,KDE,ICEWM,GNOME,MATE,LXDE,E17  or  option 2 : the created iso will be remixed (if you choose to remix distributions) with the current installed system ,what does this mean?? it mean that you will get a kali linux image with your current settings,wallpapers,documents(something like backup to a new operating system  No comments.. this script is what any lazy people out there needs!!  Youtube tutorial/preview : soon",
+              ""
+            ],
+            [
+              "3",
+              "[@cerebrux](https://github.com/cerebrux)/[**uCareSystem**](https://github.com/cerebrux/uCareSystem)",
+              "An all-in-one, one click system maintenace application for Ubuntu/Debian operating systems and derivatives",
+              "[:arrow_upper_right:](http://utappia.org)"
+            ],
+            [
+              "2",
+              "[@Drakevr](https://github.com/Drakevr)/[**slackbuilds**](https://github.com/Drakevr/slackbuilds)",
+              "Drakevr's Slackbuilds repository",
+              "[:arrow_upper_right:](drakevr.gr)"
+            ],
+            [
+              "2",
+              "[@tomkap](https://github.com/tomkap)/[**scripts**](https://github.com/tomkap/scripts)",
+              "Various scripts from me",
+              ""
+            ],
+            [
+              "2",
+              "[@cerebrux](https://github.com/cerebrux)/[**OSarena-Repo-Downloa…**](https://github.com/cerebrux/OSarena-Repo-Downloader)",
+              "This is the app that we use to provide a GUI installer of osarena.net repositrory (apps.osarena.net) ",
+              "[:arrow_upper_right:](http://apps.osarena.net)"
             ]
           ]
         }
