@@ -212,11 +212,6 @@
 ### CSS #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
-4802 | [@LeaVerou](https://github.com/LeaVerou)/[**awesomplete**](https://github.com/LeaVerou/awesomplete) | Ultra lightweight, usable, beautiful autocomplete with zero dependencies. |
-3286 | [@LeaVerou](https://github.com/LeaVerou)/[**prefixfree**](https://github.com/LeaVerou/prefixfree) | Break free from CSS prefix hell! |
-2126 | [@LeaVerou](https://github.com/LeaVerou)/[**animatable**](https://github.com/LeaVerou/animatable) | One property, two values, endless possiblities |
-1755 | [@LeaVerou](https://github.com/LeaVerou)/[**bliss**](https://github.com/LeaVerou/bliss) | Blissful JavaScript |
-1397 | [@LeaVerou](https://github.com/LeaVerou)/[**csss**](https://github.com/LeaVerou/csss) | CSS-based SlideShow System |
 5 | [@iridakos](https://github.com/iridakos)/[**hangman**](https://github.com/iridakos/hangman) | Implementation of the Hangman application of www.arubystory.com tutorials. |
 ### HTML #
 :star2: | Name | Description | 🌍
