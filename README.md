@@ -345,6 +345,7 @@
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 582 | [@aristath](https://github.com/aristath)/[**kirki**](https://github.com/aristath/kirki) | Extending the customizer | [:arrow_upper_right:](https://kirki.org)
+173 | [@kapolos](https://github.com/kapolos)/[**Pramda**](https://github.com/kapolos/pramda) | Practical Functional Programming in PHP | 
 136 | [@akDeveloper](https://github.com/akDeveloper)/[**Aktive-Merchant**](https://github.com/akDeveloper/Aktive-Merchant) | A php port of Active Merchant payment project |
 113 | [@aristath](https://github.com/aristath)/[**bootstrap-admin**](https://github.com/aristath/bootstrap-admin) | Administration theme for WordPress based on Twitter's Bootstrap |
 88 | [@akDeveloper](https://github.com/akDeveloper)/[**yaf_base_application**](https://github.com/akDeveloper/yaf_base_application) | An example of a base application for Yaf framework |
