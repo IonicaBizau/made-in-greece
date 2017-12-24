@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -34,6 +35,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2553 | [@malihu](https://github.com/malihu)/[**malihu-custom-scroll…**](https://github.com/malihu/malihu-custom-scrollbar-plugin) | Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc. | [:arrow_upper_right:](http://manos.malihu.gr/jquery-custom-content-scroller)
@@ -150,7 +152,9 @@
 2 | [@ppapadeas](https://github.com/ppapadeas)/[**fxos-qreader**](https://github.com/ppapadeas/fxos-qreader) | QR Reader for Firefox OS |
 2 | [@OrfeasZ](https://github.com/OrfeasZ)/[**aiw2**](https://github.com/OrfeasZ/aiw2) | The aIW2 phpBB template used by the alterIWnet project. |
 2 | [@thanpolas](https://github.com/thanpolas)/[**kansas-express**](https://github.com/thanpolas/kansas-express) | Express middleware for Kansas |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 526 | [@pavlospt](https://github.com/pavlospt)/[**RoundedLetterView**](https://github.com/pavlospt/RoundedLetterView) | RoundedLetterView like the one in Android 5.0 Contacts app |
@@ -182,7 +186,9 @@
 2 | [@cyberpython](https://github.com/cyberpython)/[**BMach**](https://github.com/cyberpython/BMach) | A Brookshear Machine implementation in Java | [:arrow_upper_right:](http://cyberpython.github.com/BMach)
 2 | [@kyrcha](https://github.com/kyrcha)/[**poker**](https://github.com/kyrcha/poker) | Poker calculator in Java (hand strength, hand potential, Chen's formula) | [:arrow_upper_right:](http://kyrcha.info)
 2 | [@cyberpython](https://github.com/cyberpython)/[**ComputationalGeometr…**](https://github.com/cyberpython/ComputationalGeometry) | Java implementations of Graham's Scan, Jarvis' March and the Bentley-Ottmann line-segments intersection algorithm |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 72 | [@expand](https://github.com/expand)/[**eXpand**](https://github.com/expand/eXpand) | This is a development fork so there may be times that the source code cannot even compile. But nightly builds are available for this fork that can provide the latest compilable version at our downloads page (see url bellow) | [:arrow_upper_right:](http://www.expandframework.com/downloads/download.html)
@@ -211,15 +217,21 @@
 2 | [@JimiC](https://github.com/JimiC)/[**LogitechLcd.Net**](https://github.com/JimiC/LogitechLcd.Net) | A .NET wrapper of the Logitech-G15-SDK |
 2 | [@dgkanatsios](https://github.com/dgkanatsios)/[**2048**](https://github.com/dgkanatsios/2048) | Building the 2048 game in Unity in C# and Visual Studio | [:arrow_upper_right:](http://dgkanatsios.com/2016/01/23/building-the-2048-game-in-unity-via-c-and-visual-studio/)
 2 | [@dgkanatsios](https://github.com/dgkanatsios)/[**Raspberry**](https://github.com/dgkanatsios/Raspberry) | Includes various samples for Raspberry Pi running Windows 10 IoT Core, Azure IoT Hub and more! | [:arrow_upper_right:](http://dgkanatsios.com/2015/12/25/raspberry-weather-shield-azure-iot-hub-streaming-analytics-and-more/)
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5 | [@iridakos](https://github.com/iridakos)/[**hangman**](https://github.com/iridakos/hangman) | Implementation of the Hangman application of www.arubystory.com tutorials. |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 66 | [@hootlex](https://github.com/hootlex)/[**vuejs-paginator**](https://github.com/hootlex/vuejs-paginator) | A Vue.js plugin to easily integrate pagination. |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 210 | [@c00kiemon5ter](https://github.com/c00kiemon5ter)/[**monsterwm**](https://github.com/c00kiemon5ter/monsterwm) | tiny but monstrous tiling window manager | [:arrow_upper_right:](https://github.com/c00kiemon5ter/monsterwm)
@@ -256,7 +268,9 @@
 2 | [@papanikge](https://github.com/papanikge)/[**udp-chat**](https://github.com/papanikge/udp-chat) | An experimental UDP chat client based on a TCP server for initialization |
 2 | [@acinonyx](https://github.com/acinonyx)/[**olsrd-quagga**](https://github.com/acinonyx/olsrd-quagga) | OLSRd Quagga plugin |
 2 | [@chefarov](https://github.com/chefarov)/[**simple_twitter**](https://github.com/chefarov/simple_twitter) | A simple server client app using posix sockets. Clients speaks, twithear listens from twitsay |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 531 | [@XhmikosR](https://github.com/XhmikosR)/[**notepad2-mod**](https://github.com/XhmikosR/notepad2-mod) | LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting | [:arrow_upper_right:](https://xhmikosr.github.io/notepad2-mod/)
@@ -288,11 +302,15 @@
 2 | [@iani](https://github.com/iani)/[**SC_SourceCode_Study**](https://github.com/iani/SC_SourceCode_Study) | Source code of SuperCollider, with study notes |
 2 | [@terietor](https://github.com/terietor)/[**presenations**](https://github.com/terietor/presenations) | My presentations about FOSS |
 2 | [@okinp](https://github.com/okinp)/[**3dsavFinal**](https://github.com/okinp/3dsavFinal) | Final project for the 3DSAV class |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@SudoPlz](https://github.com/SudoPlz)/[**StarlingHardpageFlip**](https://github.com/SudoPlz/StarlingHardpageFlip) | This is code, that immitates the hard page flip effect on Starling game framework. Got this from NeoGuo, he made the code, I just tried to adjust it on my project.  |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 48 | [@npat-efault](https://github.com/npat-efault)/[**poller**](https://github.com/npat-efault/poller) | An epoll(7)-based file-descriptor multiplexer. |
@@ -304,27 +322,37 @@
 2 | [@anastasop](https://github.com/anastasop)/[**dodger**](https://github.com/anastasop/dodger) | Dodger is a visual twitter client written with go, phantom.js and reveal.js |
 2 | [@npat-efault](https://github.com/npat-efault)/[**gohacks**](https://github.com/npat-efault/gohacks) | Various Go hacks |
 2 | [@npat-efault](https://github.com/npat-efault)/[**musings**](https://github.com/npat-efault/musings) | Assorted musings |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@acharal](https://github.com/acharal)/[**hopes**](https://github.com/acharal/hopes) | Higher Order Prolog with Extensional Semantics |
 4 | [@iliastsi](https://github.com/iliastsi)/[**gac**](https://github.com/iliastsi/gac) | A compiler for Alan language written in Haskell |
 2 | [@acharal](https://github.com/acharal)/[**wam**](https://github.com/acharal/wam) | A simple compiler from Prolog to WAM (Warren Abstract Machine) and a runtime for WAM. |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@Chuitox](https://github.com/Chuitox)/[**xenobot-casino**](https://github.com/Chuitox/xenobot-casino) | A script to play several games in Tibia with Xenobot |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@EliasKokkinis](https://github.com/EliasKokkinis)/[**audio-source-separat…**](https://github.com/EliasKokkinis/audio-source-separation) | This repository contains MATLAB scripts that implement some of the methods discussed in the ECESCON 8 workshop on Audio Source Separation |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 20 | [@tzikis](https://github.com/tzikis)/[**Capster**](https://github.com/tzikis/Capster) | A Caps Lock notification App for Mac OS X. Notifies the user when Caps Lock is pressed. | [:arrow_upper_right:](http://blog.tzikis.com/?page_id=251)
 15 | [@kkarayannis](https://github.com/kkarayannis)/[**DKAExpandingMenu**](https://github.com/kkarayannis/DKAExpandingMenu) | A button that expands to reveal more buttons for iOS. |
 2 | [@tzikis](https://github.com/tzikis)/[**Hackerspace-Status-N…**](https://github.com/tzikis/Hackerspace-Status-Notifier) | The project has moved to our hackerspace's account. Please visit the link below for the latest source. | [:arrow_upper_right:](https://github.com/P-Space/Hackerspace-Status-Notifier)
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 53 | [@anestisb](https://github.com/anestisb)/[**WeBaCoo**](https://github.com/anestisb/WeBaCoo) | Web Backdoor Cookie Script-Kit |
@@ -338,7 +366,9 @@
 2 | [@aduitsis](https://github.com/aduitsis)/[**IPv6-Static**](https://github.com/aduitsis/IPv6-Static) | On the fly address assignment of persistent addresses for IPv6 (or IPv4) |
 2 | [@aduitsis](https://github.com/aduitsis)/[**fritz-box-call-log**](https://github.com/aduitsis/fritz-box-call-log) | Get the call log from your Fritz!Box |
 2 | [@akarelas](https://github.com/akarelas)/[**xml-myxml**](https://github.com/akarelas/xml-myxml) | The official repository of the XML::MyXML Perl module | [:arrow_upper_right:](https://metacpan.org/module/XML::MyXML)
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 582 | [@aristath](https://github.com/aristath)/[**kirki**](https://github.com/aristath/kirki) | Extending the customizer | [:arrow_upper_right:](https://kirki.org)
@@ -376,7 +406,9 @@
 2 | [@themicp](https://github.com/themicp)/[**Linear-Algebra**](https://github.com/themicp/Linear-Algebra) |  |
 2 | [@aristath](https://github.com/aristath)/[**ornea**](https://github.com/aristath/ornea) |  |
 2 | [@andyhot](https://github.com/andyhot)/[**flatpress-plugins**](https://github.com/andyhot/flatpress-plugins) | Plugins for flatpress.org blogging engine |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4107 | [@sophron](https://github.com/sophron)/[**wifiphisher**](https://github.com/sophron/wifiphisher) | Automated phishing attacks against Wi-Fi networks |
@@ -439,13 +471,17 @@
 2 | [@xrg](https://github.com/xrg)/[**OpenERP-addons**](https://github.com/xrg/OpenERP-addons) | Main addons for OpenERP |
 2 | [@skorokithakis](https://github.com/skorokithakis)/[**back-scratcher**](https://github.com/skorokithakis/back-scratcher) | A back scratching robot! |
 2 | [@skorokithakis](https://github.com/skorokithakis)/[**photocopy**](https://github.com/skorokithakis/photocopy) | A script to archive photos off a camera to a directory. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 25 | [@IronistM](https://github.com/IronistM)/[**R_Google_Analytics**](https://github.com/IronistM/R_Google_Analytics) | This is the repo with the code snippets that supply the "R + Google Analytics = FUN" post regarding getting speed metrics and clickstream data off of the GA API to R. | [:arrow_upper_right:](http://www.statsravingmad.com/measure/google-analytics-r-fun/)
 3 | [@IronistM](https://github.com/IronistM)/[**ab_testing_plots**](https://github.com/IronistM/ab_testing_plots) | This is the repo with the code snippets that supply the "Basic A/B Testing plots and stats with R" post regarding getting Content Experiment data off of the GA API to R. | [:arrow_upper_right:](http://www.statsravingmad.com/basic-ab-testing-plots-and-stats-with-r/)
 2 | [@IronistM](https://github.com/IronistM)/[**R_Google_Analytics_D…**](https://github.com/IronistM/R_Google_Analytics_Doc) | A small attempt to create a fast documentation of a Google Analytics deployment using R |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 32 | [@eavgerinos](https://github.com/eavgerinos)/[**popme**](https://github.com/eavgerinos/popme) | Open sites in browser from the terminal. |
@@ -479,13 +515,17 @@
 2 | [@vtypal](https://github.com/vtypal)/[**utils**](https://github.com/vtypal/utils) | small apps - utilities |
 2 | [@xarisd](https://github.com/xarisd)/[**descraff**](https://github.com/xarisd/descraff) | A Ruby gem for describing your model's scaffolding |
 2 | [@damphyr](https://github.com/damphyr)/[**gaudi**](https://github.com/damphyr/gaudi) | A collection of helpers and an opinionated implementation of a C/C++ build system on top of rake |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 14 | [@loverdos](https://github.com/loverdos)/[**scalapipes**](https://github.com/loverdos/scalapipes) | Scala with forward pipe operator, as in F# and OCaml. |
 3 | [@loverdos](https://github.com/loverdos)/[**aquarium**](https://github.com/loverdos/aquarium) | Cloud-scale resource charging |
 3 | [@loverdos](https://github.com/loverdos)/[**streamresource**](https://github.com/loverdos/streamresource) | Convenient abstractions related to the getResource() pattern |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@archphile](https://github.com/archphile)/[**recipe**](https://github.com/archphile/recipe) | installation scripts and files needed for Archphile |
@@ -497,20 +537,27 @@
 2 | [@Drakevr](https://github.com/Drakevr)/[**slackbuilds**](https://github.com/Drakevr/slackbuilds) | Drakevr's Slackbuilds repository | [:arrow_upper_right:](drakevr.gr)
 2 | [@tomkap](https://github.com/tomkap)/[**scripts**](https://github.com/tomkap/scripts) | Various scripts from me |
 2 | [@cerebrux](https://github.com/cerebrux)/[**OSarena-Repo-Downloa…**](https://github.com/cerebrux/OSarena-Repo-Downloader) | This is the app that we use to provide a GUI installer of osarena.net repositrory (apps.osarena.net)  | [:arrow_upper_right:](http://apps.osarena.net)
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1806 | [@kasketis](https://github.com/kasketis)/[**netfox**](https://github.com/kasketis/netfox) | A lightweight, one line setup, iOS / OSX network debugging library! |
 10 | [@lamprosg](https://github.com/lamprosg)/[**LazyImage**](https://github.com/lamprosg/LazyImage) | Simple and efficient image lazy loading for iOS written in Swift |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@solegga](https://github.com/solegga)/[**computer-security-cl…**](https://github.com/solegga/computer-security-class) | Computer Security Class - Department of Informatics and Telecommunications, University of Athens |
 2 | [@istlab](https://github.com/istlab)/[**web**](https://github.com/istlab/web) | ISTLab web site |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@teoulas](https://github.com/teoulas)/[**vimfiles**](https://github.com/teoulas/vimfiles) | My vim configuration |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
