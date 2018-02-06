@@ -484,6 +484,7 @@
 
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
+1331 | [@iridakos](https://github.com/iridakos)/[**duckrails**](https://github.com/iridakos/duckrails) | A development tool to quickly & dynamically mock API endpoints
 32 | [@eavgerinos](https://github.com/eavgerinos)/[**popme**](https://github.com/eavgerinos/popme) | Open sites in browser from the terminal. |
 23 | [@agorf](https://github.com/agorf)/[**feed2email**](https://github.com/agorf/feed2email) | RSS/Atom feed updates sent as email |
 16 | [@ekarak](https://github.com/ekarak)/[**ansible**](https://github.com/ekarak/ansible) | a home automation scripting framework for Ruby |
